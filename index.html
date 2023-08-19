@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8"/>
+        <title>Val's Library</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vuetify@3.3.13/dist/vuetify.min.css" />
+        <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vuetify@3.3.13/dist/vuetify.min.js"></script>
+    </head>
+<body>
+    <script type="text/x-template" id="app-template">
+        <v-app>
+            <v-app-bar>
+                <v-app-bar-title>Val's Library</v-app-bar-title>
+            </v-app-bar>
+            <v-main>
+                <v-container>
+                    <section v-for="resource in resources" class="mt-5">
+                        <v-card>
+                            <v-card-item>
+                                <v-card-title class="d-flex flex-column align-start">
+                                    <span>{{ resource.title }}</span>
+                                    <span class="text-subtitle-2">{{ resource.subtitle }}</span>
+                                </v-card-title>
+                                <v-card-subtitle>
+                                    <span>{{ resource.authors.join(', ') }}</span>
+                                </v-card-subtitle>
+                            </v-card-item>
+                            <v-card-text class="d-flex flex-column align-start">
+                                <div class="font-italic">{{ resource.review }}</div>
+                                <div class="align-self-end mt-3 ">
+                                    <v-chip v-for="tag in resource.tags">{{ tag }}</v-chip>
+                                </div>
+                            </v-card-text>
+                        </v-card>
+                    </section>
+                </v-container>
+            </v-main>
+        </v-app>
+    </script>
+    <script type="module">
+        const { createApp, ref } = Vue;
+        const { createVuetify } = Vuetify;
+        import DATA from './data.json' assert { type: "json" };
+      
+        createApp({
+            template: '#app-template',
+            data() {
+                return { resources: DATA };
+            }
+        }).use(createVuetify()).mount('#app');
+    </script>
+    <div id="app" />
+</body>
+</html>
