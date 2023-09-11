@@ -101,7 +101,7 @@
             "Jez Humble",
             "John Allspaw"
         ],
-        "review": "TODO",
+        "review": "If you want to make an argument for why splitting the company into Development and Operations is a bad idea - this book basically gives you that argument. It gives you all the reasons that make it worth to invest into solid and automated development, testing, deployment, monitoring and security mechanisms. If you're currently working in a company where DevOps is the norm, it might feel like the book is stating the obvious. On the other hand, if you're working in a company that's a little more traditional... well, this book will open your eyes.",
         "tags": [
             "DevOps"
         ]
