@@ -1,18 +1,20 @@
 <!DOCTYPE html>
 <html lang="en-US">
-    <head>
-        <meta charset="utf-8"/>
-        <title>Val's Library</title>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vuetify@3.3.13/dist/vuetify.min.css" />
-        <link href="https://cdn.jsdelivr.net/npm/@mdi/font@5.x/css/materialdesignicons.min.css" rel="stylesheet">
-        <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/vuetify@3.3.13/dist/vuetify.min.js"></script>
-        <style>
-            .v-chip.selected {
-                color: #0077AA;
-            }
-        </style>
-    </head>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Val's Library</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vuetify@3.3.13/dist/vuetify.min.css" />
+    <link href="https://cdn.jsdelivr.net/npm/@mdi/font@5.x/css/materialdesignicons.min.css" rel="stylesheet">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vuetify@3.3.13/dist/vuetify.min.js"></script>
+    <style>
+        .v-chip.selected {
+            color: #0077AA;
+        }
+    </style>
+</head>
+
 <body>
     <script type="text/x-template" id="app-template">
         <v-app>
@@ -58,7 +60,7 @@
         const { createApp, ref } = Vue;
         const { createVuetify } = Vuetify;
         import DATA from './data.json' assert { type: "json" };
-      
+
         createApp({
             template: '#app-template',
             data() {
@@ -76,7 +78,7 @@
                     return this.resources.filter(r => {
                         return this.selectedTags.every(t => r.tags.includes(t));
                     }).filter(r => {
-                        if(this.query === "") return true;
+                        if (this.query === "") return true;
                         let q = this.query.toLowerCase();
                         return [
                             r.title.toLowerCase().includes(q),
@@ -89,4 +91,5 @@
     </script>
     <div id="app" />
 </body>
+
 </html>
