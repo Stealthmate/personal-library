@@ -105,5 +105,17 @@
         "tags": [
             "DevOps"
         ]
+    },
+    {
+        "title": "Peer Reviews in Software",
+        "subtitle": "A Practical Guide",
+        "authors": [
+            "Karl E. Wiegers"
+        ],
+        "review": "Reading this in 2023 was interesting, since the book appears to be written at a time when the Internet was not really that much of a thing. That being said, the ideas inside are valuable regardless of the choice of technology - the book does a good job explaining why the concept of peer review in software is good. Then again, on the surface there are some points that could be considered \"old\" by today's standards - reviewing code printed on paper, having long and formal meetings where multiple people \"inspect\" the code, etc.",
+        "tags": [
+            "Coding",
+            "Management"
+        ]
     }
 ]
