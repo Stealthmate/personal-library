@@ -1,0 +1,101 @@
+- url: https://www.youtube.com/watch?v=FyCYva9DhsI
+  title: Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks
+  speaker: Kevlin Henney
+  conference_name: NDC London 2017
+  seen: true
+
+- url: https://www.youtube.com/watch?v=b5q_iWlwL1E
+  title: Shifting Security left
+  speaker: Larry Maccherone
+  conference_name: The DEVOPS Conference 2022
+  seen: false
+
+- url: https://www.youtube.com/watch?v=AjwwJbqB9qc
+  title: Your Team as a Distributed System
+  speaker: Andrew Harvey
+  conference_name: YOW! 2019
+  seen: false
+
+- url: https://www.youtube.com/watch?v=Vk2fi7NZ3OQ
+  title: Failure is Always an Option
+  speaker: Dylan Beattie
+  conference_name: NDC Copenhagen 2022
+  seen: false
+
+- url: https://www.youtube.com/watch?v=3eQW6SueWsQ
+  title: World of Warcraft's Network Serialization and Routing
+  speaker: Joe Rumsey
+  conference_name: GDC 2013
+  seen: false
+
+- url: https://www.youtube.com/watch?v=mrGfahzt-4Q
+  title: Email vs Capitalism, or, Why We Can't Have Nice Things
+  speaker: Dylan Beattie
+  conference_name: NDC Oslo 2023
+  seen: true
+
+- url: https://www.youtube.com/watch?v=XZ3w_jec1v8
+  title: The Economics of Programming Languages
+  speaker: Evan Czaplicki
+  conference_name: Strange Loop 2023
+  seen: true
+
+- url: https://www.youtube.com/watch?v=QyJZzq0v7Z4
+  title: Why Isn't Functional Programming the Norm?
+  speaker: Richard Feldman
+  conference_name: ClojuTRE 2019
+  seen: true
+
+- url: https://www.youtube.com/watch?v=STKCRSUsyP0
+  title: The Many Meanings of Event-Driven Architecture
+  speaker: Martin Fowler
+  conference_name: GOTO 2017
+  seen: true
+
+- url: https://www.youtube.com/watch?v=o_AIw9bGogo&t
+  title: The Tragedy of systemd
+  speaker: Benno Rice
+  conference_name: LCA2019
+  seen: false
+
+- url: https://www.youtube.com/watch?v=o_AIw9bGogo&t
+  title: Workflows, a new abstraction for distributed systems
+  speaker: Dominik Tornow
+  conference_name: Strange Loop 2022
+  seen: false
+
+- url: https://www.youtube.com/watch?v=--2jJwdQ5js
+  title: A Taste of Type Theory
+  speaker: Bartosz Milewski
+  conference_name: YOW! 2019
+  seen: true
+
+- url: https://www.youtube.com/watch?v=p2GlRToY5HI&t
+  title: Don’t Build a Distributed Monolith
+  speaker: Jonathan "J." Tower
+  conference_name: NDC London 2023
+  seen: false
+
+- url: https://www.youtube.com/watch?v=FKFu78ZEIi8
+  title: Why Event Sourced Systems Fail
+  speaker: Greg Young
+  conference_name: Highload fwdays'20
+  seen: false
+
+- url: https://www.youtube.com/watch?v=I3uH3iiiDqY
+  title: "Keynote: Event sourcing"
+  speaker: Greg Young
+  conference_name: DPC2016
+  seen: false
+
+- url: https://www.youtube.com/watch?v=JHGkaShoyNs
+  title: CQRS and Event Sourcing
+  speaker: Greg Young
+  conference_name: Code on the Beach 2014
+  seen: true
+
+- url: https://www.youtube.com/watch?v=5_rrQND3lpQ
+  title: How to Improve Developer Productivity
+  speaker: Jez Humble
+  conference_name: YOW! 2020
+  seen: true
