@@ -59,7 +59,7 @@
     <script type="module">
         const { createApp, ref } = Vue;
         const { createVuetify } = Vuetify;
-        import DATA from './data.json' assert { type: "json" };
+        import DATA from './data.json' with { type: "json" };
 
         createApp({
             template: '#app-template',
