@@ -37,13 +37,22 @@
     "title": "Team Topologies",
     "subtitle": "Organizing Business and Technology Teams for Fast Flow",
     "authors": [
-      "Mathew Skelton",
-      "Manuel Pais"
+      "Manuel Pais",
+      "Matthew Skelton"
     ],
     "review": "I think every manager should read this book, and every developer should also read it because it opens your eyes to a variety of problems when working with other people. it's mostly concerned with interaction between teams as opposed to individuals, but I still think everyone can benefit from recognizing the patterns described (especially when talkin to one's teammates or other teams).\n",
     "tags": [
       "Management"
     ]
+  },
+  {
+    "title": "遠野物語",
+    "subtitle": null,
+    "authors": [
+      "柳田國男"
+    ],
+    "review": "",
+    "tags": []
   },
   {
     "title": "RADIUS",
@@ -66,6 +75,26 @@
     "review": "Almost completely changed the way I think about designing systems. 99% of the time, it's not technology that is the problem - it is an unclear domain. Definitely recommended for anyone who wants to do more than \"just programming\".\n",
     "tags": [
       "Software Architecture"
+    ]
+  },
+  {
+    "title": "Immune",
+    "subtitle": "A journey into the mysterious system that keeps you alive",
+    "authors": [
+      "Philipp Dettmer"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "とにかく仕組み化",
+    "subtitle": null,
+    "authors": [
+      "安藤広大"
+    ],
+    "review": "",
+    "tags": [
+      "Management"
     ]
   },
   {
@@ -106,6 +135,48 @@
     ]
   },
   {
+    "title": "不動産の教科書",
+    "subtitle": null,
+    "authors": [
+      "池田浩一"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "数値化の鬼",
+    "subtitle": null,
+    "authors": [
+      "安藤広大"
+    ],
+    "review": "",
+    "tags": [
+      "Management"
+    ]
+  },
+  {
+    "title": "リーダーの仮面",
+    "subtitle": null,
+    "authors": [
+      "安藤広大"
+    ],
+    "review": "",
+    "tags": [
+      "Management"
+    ]
+  },
+  {
+    "title": "Envisioning Information",
+    "subtitle": null,
+    "authors": [
+      "Edward Tufte"
+    ],
+    "review": "",
+    "tags": [
+      "Management"
+    ]
+  },
+  {
     "title": "Peer Reviews in Software",
     "subtitle": "A Practical Guide",
     "authors": [
@@ -116,5 +187,227 @@
       "Coding",
       "Management"
     ]
+  },
+  {
+    "title": "Peopleware",
+    "subtitle": "Productive Projects and Teams",
+    "authors": [
+      "Timothy Lister",
+      "Tom DeMarco"
+    ],
+    "review": "",
+    "tags": [
+      "Management"
+    ]
+  },
+  {
+    "title": "The Best Software Writing I",
+    "subtitle": null,
+    "authors": [
+      "Joel Spolsky"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "Lightroom Classic の教科書",
+    "subtitle": null,
+    "authors": [],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "足で歩いた頃のこと",
+    "subtitle": null,
+    "authors": [
+      "星野富弘"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "かっこいい夜景写真のお手本帳",
+    "subtitle": null,
+    "authors": [
+      "伴偵良"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "Infrastructure as Code",
+    "subtitle": "Dynamic Systems for the Cloud Age",
+    "authors": [
+      "Kief Morris"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "Observability Engineering",
+    "subtitle": "Achieving Production Excellence",
+    "authors": [
+      "Charity Majors",
+      "Liz Fong-Jones",
+      "George Miranda"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "The Phoenix Project",
+    "subtitle": "A Novel About IT, DevOps, and Helping Your Business Win",
+    "authors": [
+      "Gene Kim",
+      "Kevin Behr",
+      "George Spafford"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "写真がもっと好きになる",
+    "subtitle": null,
+    "authors": [
+      "菅原一剛"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "The Alchemist",
+    "subtitle": null,
+    "authors": [
+      "Pablo Coehlo"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "オオカミと野生のイヌ",
+    "subtitle": null,
+    "authors": [],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "Joy Inc",
+    "subtitle": null,
+    "authors": [],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "デュラララ 1",
+    "subtitle": null,
+    "authors": [
+      "成田良悟"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "デュラララ 2",
+    "subtitle": null,
+    "authors": [
+      "成田良悟"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "Start with Why",
+    "subtitle": null,
+    "authors": [
+      "Simon Sinek"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "ポーズ・光・色」が最高の表情を作り出す ポートレート写真術",
+    "subtitle": null,
+    "authors": [],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "デュラララ 3",
+    "subtitle": null,
+    "authors": [
+      "成田良悟"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "研修設計マニュアル",
+    "subtitle": null,
+    "authors": [
+      "鈴木克明"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "プロのとり方 クローズアップ",
+    "subtitle": null,
+    "authors": [],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "知識ゼロからの仏教入門",
+    "subtitle": null,
+    "authors": [
+      "長田幸康"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "数理モデル思考で紐解く ルールデザイン",
+    "subtitle": null,
+    "authors": [
+      "江崎貴裕"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "High Output Management",
+    "subtitle": null,
+    "authors": [
+      "Andrew Groove"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "The Practice of Management",
+    "subtitle": null,
+    "authors": [
+      "Peter F. Drucker"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "自分の親に読んでほしかった本",
+    "subtitle": null,
+    "authors": [
+      "フィリッパ・ペリー"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "Bullshit Jobs",
+    "subtitle": null,
+    "authors": [
+      "David Graeber"
+    ],
+    "review": "",
+    "tags": []
   }
 ]
