@@ -172,9 +172,7 @@
       "Edward Tufte"
     ],
     "review": "",
-    "tags": [
-      "Management"
-    ]
+    "tags": []
   },
   {
     "title": "Peer Reviews in Software",
@@ -214,7 +212,9 @@
     "subtitle": null,
     "authors": [],
     "review": "",
-    "tags": []
+    "tags": [
+      "Photography"
+    ]
   },
   {
     "title": "足で歩いた頃のこと",
@@ -232,7 +232,9 @@
       "伴偵良"
     ],
     "review": "",
-    "tags": []
+    "tags": [
+      "Photography"
+    ]
   },
   {
     "title": "Infrastructure as Code",
@@ -241,7 +243,9 @@
       "Kief Morris"
     ],
     "review": "",
-    "tags": []
+    "tags": [
+      "DevOps"
+    ]
   },
   {
     "title": "Observability Engineering",
@@ -252,7 +256,9 @@
       "George Miranda"
     ],
     "review": "",
-    "tags": []
+    "tags": [
+      "DevOps"
+    ]
   },
   {
     "title": "The Phoenix Project",
@@ -263,7 +269,10 @@
       "George Spafford"
     ],
     "review": "",
-    "tags": []
+    "tags": [
+      "DevOps",
+      "Fiction"
+    ]
   },
   {
     "title": "写真がもっと好きになる",
@@ -272,7 +281,9 @@
       "菅原一剛"
     ],
     "review": "",
-    "tags": []
+    "tags": [
+      "Photography"
+    ]
   },
   {
     "title": "The Alchemist",
@@ -281,7 +292,9 @@
       "Pablo Coehlo"
     ],
     "review": "",
-    "tags": []
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "title": "オオカミと野生のイヌ",
@@ -295,7 +308,9 @@
     "subtitle": null,
     "authors": [],
     "review": "",
-    "tags": []
+    "tags": [
+      "Management"
+    ]
   },
   {
     "title": "デュラララ 1",
@@ -304,7 +319,9 @@
       "成田良悟"
     ],
     "review": "",
-    "tags": []
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "title": "デュラララ 2",
@@ -313,7 +330,9 @@
       "成田良悟"
     ],
     "review": "",
-    "tags": []
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "title": "Start with Why",
@@ -322,7 +341,9 @@
       "Simon Sinek"
     ],
     "review": "",
-    "tags": []
+    "tags": [
+      "Management"
+    ]
   },
   {
     "title": "ポーズ・光・色」が最高の表情を作り出す ポートレート写真術",
@@ -338,7 +359,9 @@
       "成田良悟"
     ],
     "review": "",
-    "tags": []
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "title": "研修設計マニュアル",
@@ -354,7 +377,9 @@
     "subtitle": null,
     "authors": [],
     "review": "",
-    "tags": []
+    "tags": [
+      "Photography"
+    ]
   },
   {
     "title": "知識ゼロからの仏教入門",
@@ -381,7 +406,9 @@
       "Andrew Groove"
     ],
     "review": "",
-    "tags": []
+    "tags": [
+      "Management"
+    ]
   },
   {
     "title": "The Practice of Management",
@@ -390,7 +417,9 @@
       "Peter F. Drucker"
     ],
     "review": "",
-    "tags": []
+    "tags": [
+      "Management"
+    ]
   },
   {
     "title": "自分の親に読んでほしかった本",
