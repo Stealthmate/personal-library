@@ -1,5 +1,75 @@
 [
   {
+    "title": "Don't Make Me Think",
+    "subtitle": null,
+    "authors": [
+      "Steve Krug"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "subtitle": null,
+    "authors": [
+      "Alexandre Dumas"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "自動車の仕組み",
+    "subtitle": null,
+    "authors": [
+      "野崎 博路"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "How to solve it",
+    "subtitle": null,
+    "authors": [
+      "George Polya"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "望み",
+    "subtitle": null,
+    "authors": [
+      "雫井 侑介"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "こころ",
+    "subtitle": null,
+    "authors": [
+      "夏目 漱石"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "Brave New World",
+    "subtitle": null,
+    "authors": [
+      "Aldous Huxley"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "税の仕組みとルール",
+    "subtitle": null,
+    "authors": [],
+    "review": "",
+    "tags": []
+  },
+  {
     "title": "Continuous Delivery",
     "subtitle": "Reliable Software Releases through Build, Test, and Deployment Automation",
     "authors": [
@@ -12,6 +82,125 @@
     ]
   },
   {
+    "title": "Great Tales of Horror",
+    "subtitle": null,
+    "authors": [
+      "H.P. Lovecraft"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "Norse Mythology",
+    "subtitle": null,
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "FX取引の王道",
+    "subtitle": null,
+    "authors": [
+      "大西 知生"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "うつヌケ",
+    "subtitle": null,
+    "authors": [
+      "田中 圭一"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "写真がもっと上手くなるポートレートテクニック辞典",
+    "subtitle": null,
+    "authors": [],
+    "review": "",
+    "tags": [
+      "Photography",
+      "日本語"
+    ]
+  },
+  {
+    "title": "カメラのきほん練習帳",
+    "subtitle": null,
+    "authors": [
+      "松本 茜"
+    ],
+    "review": "",
+    "tags": [
+      "Photography",
+      "日本語"
+    ]
+  },
+  {
+    "title": "写真からドラマを生み出すにはどう撮るか？",
+    "subtitle": null,
+    "authors": [
+      "高橋 伸哉"
+    ],
+    "review": "",
+    "tags": [
+      "Photography",
+      "日本語"
+    ]
+  },
+  {
+    "title": "美しい風景写真のマイルール",
+    "subtitle": null,
+    "authors": [],
+    "review": "",
+    "tags": [
+      "Photography",
+      "日本語"
+    ]
+  },
+  {
+    "title": "音響工学基礎",
+    "subtitle": null,
+    "authors": [],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "PAお役立ちハンドブック",
+    "subtitle": null,
+    "authors": [],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "PA入門",
+    "subtitle": null,
+    "authors": [],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "プレパラータ先生の超並列計算講義",
+    "subtitle": null,
+    "authors": [
+      "F.P. Preparata"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "3000円投資生活",
+    "subtitle": null,
+    "authors": [
+      "横山 光昭"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
     "title": "Building Microservices",
     "subtitle": "Designing Fine-Grained Systems",
     "authors": [
@@ -21,6 +210,15 @@
     "tags": [
       "Software Architecture"
     ]
+  },
+  {
+    "title": "写真制作者のための写真技術の基礎と実践",
+    "subtitle": null,
+    "authors": [
+      "大和田 良"
+    ],
+    "review": "",
+    "tags": []
   },
   {
     "title": "Test-Driven Development",
@@ -46,6 +244,31 @@
     ]
   },
   {
+    "title": "ポーズ・光・色」が最高の表情を作り出す ポートレート写真術",
+    "subtitle": null,
+    "authors": [],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "星と月の撮り方入門",
+    "subtitle": null,
+    "authors": [
+      "田中 達也"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "星の時点",
+    "subtitle": null,
+    "authors": [
+      "柳谷紀一郎"
+    ],
+    "review": "",
+    "tags": []
+  },
+  {
     "title": "遠野物語",
     "subtitle": null,
     "authors": [
@@ -65,6 +288,22 @@
       "Network",
       "Security"
     ]
+  },
+  {
+    "title": "空の辞典",
+    "subtitle": null,
+    "authors": [],
+    "review": "",
+    "tags": []
+  },
+  {
+    "title": "石の辞典",
+    "subtitle": null,
+    "authors": [
+      "矢作ちはる"
+    ],
+    "review": "",
+    "tags": []
   },
   {
     "title": "Domain-Driven Design",
@@ -344,13 +583,6 @@
     "tags": [
       "Management"
     ]
-  },
-  {
-    "title": "ポーズ・光・色」が最高の表情を作り出す ポートレート写真術",
-    "subtitle": null,
-    "authors": [],
-    "review": "",
-    "tags": []
   },
   {
     "title": "デュラララ 3",
