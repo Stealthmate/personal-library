@@ -670,5 +670,97 @@
     ],
     "review": "",
     "tags": []
+  },
+  {
+    "title": "日本史の教科書",
+    "subtitle": null,
+    "authors": [
+      "山﨑 圭一"
+    ],
+    "review": "",
+    "tags": [
+      "日本語",
+      "History"
+    ]
+  },
+  {
+    "title": "管理会計の基本",
+    "subtitle": null,
+    "authors": [
+      "金子 智朗"
+    ],
+    "review": "",
+    "tags": [
+      "Accounting",
+      "日本語"
+    ]
+  },
+  {
+    "title": "エンジニアリング組織論への招待",
+    "subtitle": null,
+    "authors": [
+      "広木 大地"
+    ],
+    "review": "",
+    "tags": [
+      "Management",
+      "日本語"
+    ]
+  },
+  {
+    "title": "The Five Dysfunctions of a Team",
+    "subtitle": null,
+    "authors": [
+      "Patrick Lencioni"
+    ],
+    "review": "",
+    "tags": [
+      "Management"
+    ]
+  },
+  {
+    "title": "How to Win Friends and Influence People",
+    "subtitle": null,
+    "authors": [
+      "Dale Carnegie"
+    ],
+    "review": "",
+    "tags": [
+      "Management"
+    ]
+  },
+  {
+    "title": "孫氏",
+    "subtitle": null,
+    "authors": [
+      "金谷 治"
+    ],
+    "review": "",
+    "tags": [
+      "日本語"
+    ]
+  },
+  {
+    "title": "日本語という外国語",
+    "subtitle": null,
+    "authors": [
+      "荒川 洋平"
+    ],
+    "review": "",
+    "tags": [
+      "日本語"
+    ]
+  },
+  {
+    "title": "Scrum",
+    "subtitle": "The Art of Doing Twice the Work in Half the Time",
+    "authors": [
+      "Jeff Sutherland",
+      "J. J. Sutherland"
+    ],
+    "review": "",
+    "tags": [
+      "Management"
+    ]
   }
 ]
