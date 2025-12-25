@@ -1,766 +1,1393 @@
 [
   {
-    "title": "Don't Make Me Think",
-    "subtitle": null,
-    "authors": [
-      "Steve Krug"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "The Count of Monte Cristo",
-    "subtitle": null,
-    "authors": [
-      "Alexandre Dumas"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "自動車の仕組み",
-    "subtitle": null,
-    "authors": [
-      "野崎 博路"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "How to solve it",
-    "subtitle": null,
-    "authors": [
-      "George Polya"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "望み",
-    "subtitle": null,
-    "authors": [
-      "雫井 侑介"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "こころ",
-    "subtitle": null,
-    "authors": [
-      "夏目 漱石"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "Brave New World",
-    "subtitle": null,
-    "authors": [
-      "Aldous Huxley"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "税の仕組みとルール",
-    "subtitle": null,
-    "authors": [],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "Continuous Delivery",
-    "subtitle": "Reliable Software Releases through Build, Test, and Deployment Automation",
-    "authors": [
-      "David Farley",
-      "Jez Humble"
-    ],
-    "review": "Basically the \"what\", \"why\" and \"how\" of continuous integration (CI) and delivery (CD). Goes into great detail to explain why having a good CI/CD system is good and what benefits it gives with respect to software stability, e.g. number of bugs.\n",
-    "tags": [
-      "DevOps"
-    ]
-  },
-  {
-    "title": "Great Tales of Horror",
-    "subtitle": null,
-    "authors": [
-      "H.P. Lovecraft"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "Norse Mythology",
-    "subtitle": null,
-    "authors": [
-      "Neil Gaiman"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "FX取引の王道",
-    "subtitle": null,
-    "authors": [
-      "大西 知生"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "うつヌケ",
-    "subtitle": null,
-    "authors": [
-      "田中 圭一"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "写真がもっと上手くなるポートレートテクニック辞典",
-    "subtitle": null,
-    "authors": [],
-    "review": "",
-    "tags": [
-      "Photography",
-      "日本語"
-    ]
-  },
-  {
-    "title": "カメラのきほん練習帳",
-    "subtitle": null,
-    "authors": [
-      "松本 茜"
-    ],
-    "review": "",
-    "tags": [
-      "Photography",
-      "日本語"
-    ]
-  },
-  {
-    "title": "写真からドラマを生み出すにはどう撮るか？",
-    "subtitle": null,
-    "authors": [
-      "高橋 伸哉"
-    ],
-    "review": "",
-    "tags": [
-      "Photography",
-      "日本語"
-    ]
-  },
-  {
-    "title": "美しい風景写真のマイルール",
-    "subtitle": null,
-    "authors": [],
-    "review": "",
-    "tags": [
-      "Photography",
-      "日本語"
-    ]
-  },
-  {
-    "title": "音響工学基礎",
-    "subtitle": null,
-    "authors": [],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "PAお役立ちハンドブック",
-    "subtitle": null,
-    "authors": [],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "PA入門",
-    "subtitle": null,
-    "authors": [],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "プレパラータ先生の超並列計算講義",
-    "subtitle": null,
-    "authors": [
-      "F.P. Preparata"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "3000円投資生活",
-    "subtitle": null,
-    "authors": [
-      "横山 光昭"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "Building Microservices",
-    "subtitle": "Designing Fine-Grained Systems",
-    "authors": [
-      "Sam Newman"
-    ],
-    "review": "This is probably THE textbook on microservices. Honestly, some of the things here are understood only when you actually build a (bad) microservice system, but nevertheless it provides a lot of insight about why you might want to split certain systems, instead of having one giant one. It touches on a variety of topics, including communication, security, testing etc and it features pretty modern technologies, so it serves as a nice overview of the area.\n",
-    "tags": [
-      "Software Architecture"
-    ]
-  },
-  {
-    "title": "写真制作者のための写真技術の基礎と実践",
-    "subtitle": null,
-    "authors": [
-      "大和田 良"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "Test-Driven Development",
-    "subtitle": "By Example",
-    "authors": [
-      "Kent Beck"
-    ],
-    "review": "Nice little book that teaches you how to write correct code without getting too stressed out. Very light-hearted and easy-going - you could read this in 1-minute bursts if you wanted to. This is a book about the nitty-gritty details of development, but Kent Beck manages to make it easy to read with his well-paced sense of humor.\n",
-    "tags": [
-      "Coding"
-    ]
-  },
-  {
-    "title": "Team Topologies",
-    "subtitle": "Organizing Business and Technology Teams for Fast Flow",
-    "authors": [
-      "Manuel Pais",
-      "Matthew Skelton"
-    ],
-    "review": "I think every manager should read this book, and every developer should also read it because it opens your eyes to a variety of problems when working with other people. it's mostly concerned with interaction between teams as opposed to individuals, but I still think everyone can benefit from recognizing the patterns described (especially when talkin to one's teammates or other teams).\n",
-    "tags": [
-      "Management"
-    ]
-  },
-  {
-    "title": "ポーズ・光・色」が最高の表情を作り出す ポートレート写真術",
-    "subtitle": null,
-    "authors": [],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "星と月の撮り方入門",
-    "subtitle": null,
-    "authors": [
-      "田中 達也"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "星の時点",
-    "subtitle": null,
-    "authors": [
-      "柳谷紀一郎"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "遠野物語",
-    "subtitle": null,
-    "authors": [
-      "柳田國男"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "RADIUS",
-    "subtitle": "Securing Public Access to Private Resources",
-    "authors": [
-      "Jonathan Hassell"
-    ],
-    "review": "On the surface, this is a textbook about the RADIUS protocol and the FreeRADIUS implementation. But it does such a good job of explaining the protocol, that reading it actually gives you insight about networking, authentication, authorization and security in general. If your job includes dealing with accounts, even if not related to networks per se, then I definitely recommend giving this a read.\n",
-    "tags": [
-      "Network",
-      "Security"
-    ]
-  },
-  {
-    "title": "空の辞典",
-    "subtitle": null,
-    "authors": [],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "石の辞典",
-    "subtitle": null,
-    "authors": [
-      "矢作ちはる"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "Domain-Driven Design",
-    "subtitle": "Tackling Complexity in the Heart of Software",
-    "authors": [
-      "Eric Evans"
-    ],
-    "review": "Almost completely changed the way I think about designing systems. 99% of the time, it's not technology that is the problem - it is an unclear domain. Definitely recommended for anyone who wants to do more than \"just programming\".\n",
-    "tags": [
-      "Software Architecture"
-    ]
-  },
-  {
-    "title": "Immune",
-    "subtitle": "A journey into the mysterious system that keeps you alive",
-    "authors": [
-      "Philipp Dettmer"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "とにかく仕組み化",
-    "subtitle": null,
-    "authors": [
-      "安藤広大"
-    ],
-    "review": "",
-    "tags": [
-      "Management"
-    ]
-  },
-  {
-    "title": "Clean Code",
-    "subtitle": "A Handbook of Agile Software Craftsmanship",
-    "authors": [
-      "Robert Martin"
-    ],
-    "review": "A somewhat dogmatic approach to writing code that is, well, clean, but also readable, understandable and maintainable. From an experienced person's view, most concepts look obvious, yet it refreshes your mind to see them codified and backed by clear reasoning. On the other hand, a beginner will probably find a lot of insight reading this.\n",
-    "tags": [
-      "Coding"
-    ]
-  },
-  {
-    "title": "Clean Architecture",
-    "subtitle": "A Craftsman's Guide to Software Structure and Design",
-    "authors": [
-      "Robert Martin"
-    ],
-    "review": "This book is basically a very detailed justification for spending time refining your code so that you have the correct abstractions, even if you don't produce new \"features\" in the process. It shows you the possibilities of well-designed systems, and more importantly, the pitfalls of badly-designed ones. The book gives an overview of common principles in the industry - from the well-known SOLID principles, to other lesser known but equally important ideas. To put it simply - if you want to sound more convincing when you tell your manager that you need to do some major refactoring, then this book is for you.\n",
-    "tags": [
-      "Software Architecture"
-    ]
-  },
-  {
-    "title": "The DevOps Handbook",
-    "subtitle": "How to Create World-Class Agility, Reliability, and Security in Technology Organizations",
-    "authors": [
-      "Gene Kim",
-      "Patrick Debois",
-      "John Willis",
-      "Jez Humble",
-      "John Allspaw"
-    ],
-    "review": "If you want to make an argument for why splitting the company into Development and Operations is a bad idea - this book basically gives you that argument. It gives you all the reasons that make it worth to invest into solid and automated development, testing, deployment, monitoring and security mechanisms. If you're currently working in a company where DevOps is the norm, it might feel like the book is stating the obvious. On the other hand, if you're working in a company that's a little more traditional... well, this book will open your eyes.\n",
-    "tags": [
-      "DevOps"
-    ]
-  },
-  {
-    "title": "不動産の教科書",
-    "subtitle": null,
-    "authors": [
-      "池田浩一"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "数値化の鬼",
-    "subtitle": null,
-    "authors": [
-      "安藤広大"
-    ],
-    "review": "",
-    "tags": [
-      "Management"
-    ]
-  },
-  {
-    "title": "リーダーの仮面",
-    "subtitle": null,
-    "authors": [
-      "安藤広大"
-    ],
-    "review": "",
-    "tags": [
-      "Management"
-    ]
-  },
-  {
-    "title": "Envisioning Information",
-    "subtitle": null,
-    "authors": [
-      "Edward Tufte"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "Peer Reviews in Software",
-    "subtitle": "A Practical Guide",
-    "authors": [
-      "Karl E. Wiegers"
-    ],
-    "review": "Reading this in 2023 was interesting, since the book appears to be written at a time when the Internet was not really that much of a thing. That being said, the ideas inside are valuable regardless of the choice of technology - the book does a good job explaining why the concept of peer review in software is good. Then again, on the surface there are some points that could be considered \"old\" by today's standards - reviewing code printed on paper, having long and formal meetings where multiple people \"inspect\" the code, etc.\n",
-    "tags": [
-      "Coding",
-      "Management"
-    ]
-  },
-  {
-    "title": "Peopleware",
-    "subtitle": "Productive Projects and Teams",
-    "authors": [
-      "Timothy Lister",
-      "Tom DeMarco"
-    ],
-    "review": "",
-    "tags": [
-      "Management"
-    ]
-  },
-  {
-    "title": "The Best Software Writing I",
-    "subtitle": null,
-    "authors": [
-      "Joel Spolsky"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "Lightroom Classic の教科書",
-    "subtitle": null,
-    "authors": [],
-    "review": "",
-    "tags": [
-      "Photography"
-    ]
-  },
-  {
-    "title": "足で歩いた頃のこと",
-    "subtitle": null,
-    "authors": [
-      "星野富弘"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "かっこいい夜景写真のお手本帳",
-    "subtitle": null,
-    "authors": [
-      "伴偵良"
-    ],
-    "review": "",
-    "tags": [
-      "Photography"
-    ]
-  },
-  {
-    "title": "Infrastructure as Code",
-    "subtitle": "Dynamic Systems for the Cloud Age",
-    "authors": [
-      "Kief Morris"
-    ],
-    "review": "",
-    "tags": [
-      "DevOps"
-    ]
-  },
-  {
-    "title": "Observability Engineering",
-    "subtitle": "Achieving Production Excellence",
-    "authors": [
-      "Charity Majors",
-      "Liz Fong-Jones",
-      "George Miranda"
-    ],
-    "review": "",
-    "tags": [
-      "DevOps"
-    ]
-  },
-  {
-    "title": "The Phoenix Project",
-    "subtitle": "A Novel About IT, DevOps, and Helping Your Business Win",
-    "authors": [
-      "Gene Kim",
-      "Kevin Behr",
-      "George Spafford"
-    ],
-    "review": "",
-    "tags": [
-      "DevOps",
-      "Fiction"
-    ]
-  },
-  {
-    "title": "写真がもっと好きになる",
-    "subtitle": null,
-    "authors": [
-      "菅原一剛"
-    ],
-    "review": "",
-    "tags": [
-      "Photography"
-    ]
-  },
-  {
-    "title": "The Alchemist",
-    "subtitle": null,
-    "authors": [
-      "Pablo Coehlo"
-    ],
-    "review": "",
-    "tags": [
-      "Fiction"
-    ]
-  },
-  {
-    "title": "オオカミと野生のイヌ",
-    "subtitle": null,
-    "authors": [],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "Joy Inc",
-    "subtitle": null,
-    "authors": [],
-    "review": "",
-    "tags": [
-      "Management"
-    ]
-  },
-  {
-    "title": "デュラララ 1",
-    "subtitle": null,
-    "authors": [
-      "成田良悟"
-    ],
-    "review": "",
-    "tags": [
-      "Fiction"
-    ]
-  },
-  {
-    "title": "デュラララ 2",
-    "subtitle": null,
-    "authors": [
-      "成田良悟"
-    ],
-    "review": "",
-    "tags": [
-      "Fiction"
-    ]
-  },
-  {
-    "title": "Start with Why",
-    "subtitle": null,
-    "authors": [
-      "Simon Sinek"
-    ],
-    "review": "",
-    "tags": [
-      "Management"
-    ]
-  },
-  {
-    "title": "デュラララ 3",
-    "subtitle": null,
-    "authors": [
-      "成田良悟"
-    ],
-    "review": "",
-    "tags": [
-      "Fiction"
-    ]
-  },
-  {
-    "title": "研修設計マニュアル",
-    "subtitle": null,
-    "authors": [
-      "鈴木克明"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "プロのとり方 クローズアップ",
-    "subtitle": null,
-    "authors": [],
-    "review": "",
-    "tags": [
-      "Photography"
-    ]
-  },
-  {
-    "title": "知識ゼロからの仏教入門",
-    "subtitle": null,
-    "authors": [
-      "長田幸康"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "数理モデル思考で紐解く ルールデザイン",
-    "subtitle": null,
-    "authors": [
-      "江崎貴裕"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "High Output Management",
-    "subtitle": null,
-    "authors": [
-      "Andrew Groove"
-    ],
-    "review": "",
-    "tags": [
-      "Management"
-    ]
-  },
-  {
-    "title": "The Practice of Management",
-    "subtitle": null,
-    "authors": [
-      "Peter F. Drucker"
-    ],
-    "review": "",
-    "tags": [
-      "Management"
-    ]
-  },
-  {
-    "title": "自分の親に読んでほしかった本",
-    "subtitle": null,
-    "authors": [
-      "フィリッパ・ペリー"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "Bullshit Jobs",
-    "subtitle": null,
-    "authors": [
-      "David Graeber"
-    ],
-    "review": "",
-    "tags": []
-  },
-  {
-    "title": "日本史の教科書",
-    "subtitle": null,
-    "authors": [
-      "山﨑 圭一"
-    ],
-    "review": "",
-    "tags": [
-      "日本語",
-      "History"
-    ]
-  },
-  {
-    "title": "管理会計の基本",
-    "subtitle": null,
-    "authors": [
-      "金子 智朗"
-    ],
-    "review": "",
-    "tags": [
-      "Accounting",
-      "日本語"
-    ]
-  },
-  {
-    "title": "エンジニアリング組織論への招待",
-    "subtitle": null,
-    "authors": [
-      "広木 大地"
-    ],
-    "review": "",
-    "tags": [
-      "Management",
-      "日本語"
-    ]
-  },
-  {
-    "title": "The Five Dysfunctions of a Team",
-    "subtitle": null,
-    "authors": [
-      "Patrick Lencioni"
-    ],
-    "review": "",
-    "tags": [
-      "Management"
-    ]
-  },
-  {
-    "title": "How to Win Friends and Influence People",
-    "subtitle": null,
-    "authors": [
-      "Dale Carnegie"
-    ],
-    "review": "",
-    "tags": [
-      "Management"
-    ]
-  },
-  {
-    "title": "孫氏",
-    "subtitle": null,
-    "authors": [
-      "金谷 治"
-    ],
-    "review": "",
-    "tags": [
-      "日本語"
-    ]
-  },
-  {
-    "title": "日本語という外国語",
-    "subtitle": null,
-    "authors": [
-      "荒川 洋平"
-    ],
-    "review": "",
-    "tags": [
-      "日本語"
-    ]
-  },
-  {
-    "title": "Scrum",
-    "subtitle": "The Art of Doing Twice the Work in Half the Time",
-    "authors": [
-      "Jeff Sutherland",
-      "J. J. Sutherland"
-    ],
-    "review": "",
-    "tags": [
-      "Management"
-    ]
+    "timestamp": "2023-02-25",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Building Microservices",
+      "subtitle": "Designing Fine-Grained Systems",
+      "authors": [
+        "Sam Newman"
+      ],
+      "review": "This is probably THE textbook on microservices. Honestly, some of the things here are understood only when you actually build a (bad) microservice system, but nevertheless it provides a lot of insight about why you might want to split certain systems, instead of having one giant one. It touches on a variety of topics, including communication, security, testing etc and it features pretty modern technologies, so it serves as a nice overview of the area.\n",
+      "tags": [
+        "Software Architecture"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-04-09",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "写真制作者のための写真技術の基礎と実践",
+      "authors": [
+        "大和田 良"
+      ],
+      "started_at": "2023-01-22"
+    }
+  },
+  {
+    "timestamp": "2023-06-10",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Test-Driven Development",
+      "subtitle": "By Example",
+      "authors": [
+        "Kent Beck"
+      ],
+      "review": "Nice little book that teaches you how to write correct code without getting too stressed out. Very light-hearted and easy-going - you could read this in 1-minute bursts if you wanted to. This is a book about the nitty-gritty details of development, but Kent Beck manages to make it easy to read with his well-paced sense of humor.\n",
+      "tags": [
+        "Coding"
+      ],
+      "started_at": "2023-03-12"
+    }
+  },
+  {
+    "timestamp": "2023-06-18",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Team Topologies",
+      "subtitle": "Organizing Business and Technology Teams for Fast Flow",
+      "authors": [
+        "Manuel Pais",
+        "Matthew Skelton"
+      ],
+      "review": "I think every manager should read this book, and every developer should also read it because it opens your eyes to a variety of problems when working with other people. it's mostly concerned with interaction between teams as opposed to individuals, but I still think everyone can benefit from recognizing the patterns described (especially when talkin to one's teammates or other teams).\n",
+      "started_at": "2023-06-10",
+      "tags": [
+        "Management"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-06-19",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "ポーズ・光・色」が最高の表情を作り出す ポートレート写真術",
+      "started_at": "2023-04-09"
+    }
+  },
+  {
+    "timestamp": "2023-06-25",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "星と月の撮り方入門",
+      "authors": [
+        "田中 達也"
+      ],
+      "started_at": "2023-06-19"
+    }
+  },
+  {
+    "timestamp": "2023-07-09",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "星の時点",
+      "authors": [
+        "柳谷紀一郎"
+      ],
+      "started_at": "2023-04-09"
+    }
+  },
+  {
+    "timestamp": "2023-07-14 00:00:00",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "遠野物語",
+      "authors": [
+        "柳田國男"
+      ],
+      "started_at": "2023-07-09"
+    }
+  },
+  {
+    "timestamp": "2023-07-14 00:00:01",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "RADIUS",
+      "subtitle": "Securing Public Access to Private Resources",
+      "authors": [
+        "Jonathan Hassell"
+      ],
+      "started_at": "2023-07-09",
+      "review": "On the surface, this is a textbook about the RADIUS protocol and the FreeRADIUS implementation. But it does such a good job of explaining the protocol, that reading it actually gives you insight about networking, authentication, authorization and security in general. If your job includes dealing with accounts, even if not related to networks per se, then I definitely recommend giving this a read.\n",
+      "tags": [
+        "Network",
+        "Security"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-07-16",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "空の辞典",
+      "started_at": "2023-07-14"
+    }
+  },
+  {
+    "timestamp": "2023-07-20",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "石の辞典",
+      "authors": [
+        "矢作ちはる"
+      ],
+      "started_at": "2023-07-16"
+    }
+  },
+  {
+    "timestamp": "2023-07-24",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Domain-Driven Design",
+      "subtitle": "Tackling Complexity in the Heart of Software",
+      "authors": [
+        "Eric Evans"
+      ],
+      "review": "Almost completely changed the way I think about designing systems. 99% of the time, it's not technology that is the problem - it is an unclear domain. Definitely recommended for anyone who wants to do more than \"just programming\".\n",
+      "started_at": "2023-07-18",
+      "tags": [
+        "Software Architecture"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-08-01",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Immune",
+      "subtitle": "A journey into the mysterious system that keeps you alive",
+      "authors": [
+        "Philipp Dettmer"
+      ],
+      "started_at": "2023-07-20"
+    }
+  },
+  {
+    "timestamp": "2023-08-13 00:00:00",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "とにかく仕組み化",
+      "authors": [
+        "安藤広大"
+      ],
+      "started_at": "2023-08-02",
+      "tags": [
+        "Management"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-08-13 00:00:01",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Clean Code",
+      "subtitle": "A Handbook of Agile Software Craftsmanship",
+      "authors": [
+        "Robert Martin"
+      ],
+      "review": "A somewhat dogmatic approach to writing code that is, well, clean, but also readable, understandable and maintainable. From an experienced person's view, most concepts look obvious, yet it refreshes your mind to see them codified and backed by clear reasoning. On the other hand, a beginner will probably find a lot of insight reading this.\n",
+      "tags": [
+        "Coding"
+      ],
+      "started_at": "2023-07-27"
+    }
+  },
+  {
+    "timestamp": "2023-08-15",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Clean Architecture",
+      "subtitle": "A Craftsman's Guide to Software Structure and Design",
+      "authors": [
+        "Robert Martin"
+      ],
+      "review": "This book is basically a very detailed justification for spending time refining your code so that you have the correct abstractions, even if you don't produce new \"features\" in the process. It shows you the possibilities of well-designed systems, and more importantly, the pitfalls of badly-designed ones. The book gives an overview of common principles in the industry - from the well-known SOLID principles, to other lesser known but equally important ideas. To put it simply - if you want to sound more convincing when you tell your manager that you need to do some major refactoring, then this book is for you.\n",
+      "tags": [
+        "Software Architecture"
+      ],
+      "started_at": "2023-08-13"
+    }
+  },
+  {
+    "timestamp": "2023-09-09",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "The DevOps Handbook",
+      "subtitle": "How to Create World-Class Agility, Reliability, and Security in Technology Organizations",
+      "authors": [
+        "Gene Kim",
+        "Patrick Debois",
+        "John Willis",
+        "Jez Humble",
+        "John Allspaw"
+      ],
+      "review": "If you want to make an argument for why splitting the company into Development and Operations is a bad idea - this book basically gives you that argument. It gives you all the reasons that make it worth to invest into solid and automated development, testing, deployment, monitoring and security mechanisms. If you're currently working in a company where DevOps is the norm, it might feel like the book is stating the obvious. On the other hand, if you're working in a company that's a little more traditional... well, this book will open your eyes.\n",
+      "tags": [
+        "DevOps"
+      ],
+      "started_at": "2023-08-19"
+    }
+  },
+  {
+    "timestamp": "2023-09-10",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "不動産の教科書",
+      "authors": [
+        "池田浩一"
+      ],
+      "started_at": "2023-08-19"
+    }
+  },
+  {
+    "timestamp": "2023-09-16",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "数値化の鬼",
+      "authors": [
+        "安藤広大"
+      ],
+      "started_at": "2023-09-10",
+      "tags": [
+        "Management"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-09-17",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "リーダーの仮面",
+      "authors": [
+        "安藤広大"
+      ],
+      "started_at": "2023-09-22",
+      "tags": [
+        "Management"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-09-22",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Envisioning Information",
+      "authors": [
+        "Edward Tufte"
+      ],
+      "started_at": "2023-09-29"
+    }
+  },
+  {
+    "timestamp": "2023-10-07",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Peer Reviews in Software",
+      "subtitle": "A Practical Guide",
+      "authors": [
+        "Karl E. Wiegers"
+      ],
+      "review": "Reading this in 2023 was interesting, since the book appears to be written at a time when the Internet was not really that much of a thing. That being said, the ideas inside are valuable regardless of the choice of technology - the book does a good job explaining why the concept of peer review in software is good. Then again, on the surface there are some points that could be considered \"old\" by today's standards - reviewing code printed on paper, having long and formal meetings where multiple people \"inspect\" the code, etc.\n",
+      "tags": [
+        "Coding",
+        "Management"
+      ],
+      "started_at": "2023-09-29"
+    }
+  },
+  {
+    "timestamp": "2023-10-09",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Peopleware",
+      "subtitle": "Productive Projects and Teams",
+      "authors": [
+        "Timothy Lister",
+        "Tom DeMarco"
+      ],
+      "tags": [
+        "Management"
+      ],
+      "started_at": "2023-03-12"
+    }
+  },
+  {
+    "timestamp": "2023-10-15",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "The Best Software Writing I",
+      "authors": [
+        "Joel Spolsky"
+      ],
+      "started_at": "2023-10-09"
+    }
+  },
+  {
+    "timestamp": "2023-10-19",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Lightroom Classic の教科書",
+      "tags": [
+        "Photography"
+      ],
+      "started_at": "2023-10-09"
+    }
+  },
+  {
+    "timestamp": "2023-10-21 00:00:00",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "足で歩いた頃のこと",
+      "authors": [
+        "星野富弘"
+      ],
+      "started_at": "2023-10-21"
+    }
+  },
+  {
+    "timestamp": "2023-10-21 00:00:01",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "かっこいい夜景写真のお手本帳",
+      "authors": [
+        "伴偵良"
+      ],
+      "tags": [
+        "Photography"
+      ],
+      "started_at": "2023-10-21"
+    }
+  },
+  {
+    "timestamp": "2023-10-23",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Infrastructure as Code",
+      "subtitle": "Dynamic Systems for the Cloud Age",
+      "authors": [
+        "Kief Morris"
+      ],
+      "tags": [
+        "DevOps"
+      ],
+      "started_at": "2023-10-15"
+    }
+  },
+  {
+    "timestamp": "2023-11-03",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Observability Engineering",
+      "subtitle": "Achieving Production Excellence",
+      "authors": [
+        "Charity Majors",
+        "Liz Fong-Jones",
+        "George Miranda"
+      ],
+      "tags": [
+        "DevOps"
+      ],
+      "started_at": "2023-10-24"
+    }
+  },
+  {
+    "timestamp": "2023-11-10",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "The Phoenix Project",
+      "subtitle": "A Novel About IT, DevOps, and Helping Your Business Win",
+      "authors": [
+        "Gene Kim",
+        "Kevin Behr",
+        "George Spafford"
+      ],
+      "tags": [
+        "DevOps",
+        "Fiction"
+      ],
+      "started_at": "2023-11-04"
+    }
+  },
+  {
+    "timestamp": "2023-11-19",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "写真がもっと好きになる",
+      "authors": [
+        "菅原一剛"
+      ],
+      "tags": [
+        "Photography"
+      ],
+      "started_at": "2023-11-11"
+    }
+  },
+  {
+    "timestamp": "2023-11-28",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "The Alchemist",
+      "authors": [
+        "Pablo Coehlo"
+      ],
+      "tags": [
+        "Fiction"
+      ],
+      "started_at": "2023-11-28"
+    }
+  },
+  {
+    "timestamp": "2023-12-04",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "オオカミと野生のイヌ",
+      "started_at": "2023-11-18"
+    }
+  },
+  {
+    "timestamp": "2024-01-03",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Joy Inc",
+      "tags": [
+        "Management"
+      ],
+      "started_at": "2023-12-06"
+    }
+  },
+  {
+    "timestamp": "2024-01-15",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "デュラララ 1",
+      "authors": [
+        "成田良悟"
+      ],
+      "tags": [
+        "Fiction"
+      ],
+      "started_at": "2023-12-10"
+    }
+  },
+  {
+    "timestamp": "2024-02-04",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "デュラララ 2",
+      "authors": [
+        "成田良悟"
+      ],
+      "tags": [
+        "Fiction"
+      ],
+      "started_at": "2024-01-21"
+    }
+  },
+  {
+    "timestamp": "2024-05-08",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Start with Why",
+      "authors": [
+        "Simon Sinek"
+      ],
+      "tags": [
+        "Management"
+      ]
+    }
+  },
+  {
+    "timestamp": "2024-06-23",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "デュラララ 3",
+      "authors": [
+        "成田良悟"
+      ],
+      "tags": [
+        "Fiction"
+      ]
+    }
+  },
+  {
+    "timestamp": "2024-06-25",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "研修設計マニュアル",
+      "authors": [
+        "鈴木克明"
+      ]
+    }
+  },
+  {
+    "timestamp": "2024-06-27",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "プロのとり方 クローズアップ",
+      "tags": [
+        "Photography"
+      ]
+    }
+  },
+  {
+    "timestamp": "2024-07-10",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "知識ゼロからの仏教入門",
+      "authors": [
+        "長田幸康"
+      ]
+    }
+  },
+  {
+    "timestamp": "2024-07-17",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "数理モデル思考で紐解く ルールデザイン",
+      "authors": [
+        "江崎貴裕"
+      ]
+    }
+  },
+  {
+    "timestamp": "2024-07-21",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "High Output Management",
+      "authors": [
+        "Andrew Groove"
+      ],
+      "tags": [
+        "Management"
+      ]
+    }
+  },
+  {
+    "timestamp": "2024-08-03",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "The Practice of Management",
+      "authors": [
+        "Peter F. Drucker"
+      ],
+      "tags": [
+        "Management"
+      ]
+    }
+  },
+  {
+    "timestamp": "2024-09-17",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "自分の親に読んでほしかった本",
+      "authors": [
+        "フィリッパ・ペリー"
+      ]
+    }
+  },
+  {
+    "timestamp": "2024-10-02",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Bullshit Jobs",
+      "authors": [
+        "David Graeber"
+      ]
+    }
+  },
+  {
+    "timestamp": "2024-10-27",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "日本史の教科書",
+      "authors": [
+        "山﨑 圭一"
+      ],
+      "started_at": "2024-09-23",
+      "tags": [
+        "日本語",
+        "History"
+      ]
+    }
+  },
+  {
+    "timestamp": "2024-11-04",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "管理会計の基本",
+      "authors": [
+        "金子 智朗"
+      ],
+      "started_at": "2024-10-11",
+      "tags": [
+        "Accounting",
+        "日本語"
+      ]
+    }
+  },
+  {
+    "timestamp": "2024-11-07",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "エンジニアリング組織論への招待",
+      "authors": [
+        "広木 大地"
+      ],
+      "started_at": "2024-10-20",
+      "tags": [
+        "Management",
+        "日本語"
+      ]
+    }
+  },
+  {
+    "timestamp": "2024-11-12",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "The Five Dysfunctions of a Team",
+      "authors": [
+        "Patrick Lencioni"
+      ],
+      "started_at": "2024-11-08",
+      "tags": [
+        "Management"
+      ]
+    }
+  },
+  {
+    "timestamp": "2024-11-14",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "How to Win Friends and Influence People",
+      "authors": [
+        "Dale Carnegie"
+      ],
+      "started_at": "2024-11-04",
+      "tags": [
+        "Management"
+      ]
+    }
+  },
+  {
+    "timestamp": "2024-11-16",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "孫氏",
+      "authors": [
+        "金谷 治"
+      ],
+      "started_at": "2024-11-04",
+      "tags": [
+        "日本語"
+      ]
+    }
+  },
+  {
+    "timestamp": "2024-11-22",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "日本語という外国語",
+      "authors": [
+        "荒川 洋平"
+      ],
+      "started_at": "2024-11-14",
+      "tags": [
+        "日本語"
+      ]
+    }
+  },
+  {
+    "timestamp": "2024-11-25",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Scrum",
+      "subtitle": "The Art of Doing Twice the Work in Half the Time",
+      "authors": [
+        "Jeff Sutherland",
+        "J. J. Sutherland"
+      ],
+      "started_at": "2024-11-18",
+      "tags": [
+        "Management"
+      ]
+    }
+  },
+  {
+    "timestamp": "2024-12-12",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Why Smart Executives Fail",
+      "subtitle": "And What You Can Learn from Their Mistakes",
+      "authors": [
+        "Sydney Finkelstein"
+      ],
+      "started_at": "2024-12-02",
+      "tags": [
+        "Management"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-01-05",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "世界は経営でできている",
+      "authors": [
+        "岩尾 俊兵"
+      ],
+      "tags": [
+        "Management",
+        "日本語"
+      ],
+      "started_at": "2024-12-15"
+    }
+  },
+  {
+    "timestamp": "2025-01-15",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "採用基準",
+      "authors": [
+        "伊賀 恭代"
+      ],
+      "tags": [
+        "Management",
+        "日本語"
+      ],
+      "started_at": "2025-01-04"
+    }
+  },
+  {
+    "timestamp": "2025-01-23",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "ケースで学ぶ管理会計",
+      "subtitle": "ビジネスの成功と失敗の裏には管理会計の優劣がある",
+      "authors": [
+        "金子 智朗"
+      ],
+      "tags": [
+        "Management",
+        "日本語"
+      ],
+      "started_at": "2025-01-16"
+    }
+  },
+  {
+    "timestamp": "2025-02-02",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "アジャイルチームによる目標づくりガイドブック",
+      "authors": [
+        "小田中 育生"
+      ],
+      "tags": [
+        "Management",
+        "Agile",
+        "日本語"
+      ],
+      "started_at": "2025-01-23"
+    }
+  },
+  {
+    "timestamp": "2025-02-05",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "The Prince",
+      "authors": [
+        "Niccolo Machiavelli"
+      ],
+      "tags": [
+        "Management",
+        "Agile",
+        "日本語"
+      ],
+      "started_at": "2025-02-02"
+    }
+  },
+  {
+    "timestamp": "2025-02-14",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "嫌われる勇気",
+      "subtitle": "自己啓発の源流「アドラー」の教え",
+      "authors": [
+        "岸見 一郎",
+        "古賀 史健"
+      ],
+      "tags": [
+        "Psychology",
+        "日本語"
+      ],
+      "started_at": "2025-02-05"
+    }
+  },
+  {
+    "timestamp": "2025-03-06",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Reinventing Organizations",
+      "subtitle": "A Guide to Creating Organizations Inspired by the Next Stage in Human Consciousness",
+      "authors": [
+        "Frederic Laloux"
+      ],
+      "tags": [
+        "Management"
+      ],
+      "started_at": "2025-02-14"
+    }
+  },
+  {
+    "timestamp": "2025-03-17",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Egyptian Mythology",
+      "subtitle": "A Guide to the Gods, Goddesses, and Traditions of Ancient Egypt",
+      "authors": [
+        "Geraldine Pinch"
+      ],
+      "tags": [
+        "Egyptology"
+      ],
+      "started_at": "2025-02-07"
+    }
+  },
+  {
+    "timestamp": "2025-04-19",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "平家物語",
+      "tags": [
+        "日本語",
+        "古典"
+      ],
+      "started_at": "2025-02-01"
+    }
+  },
+  {
+    "timestamp": "2025-04-23",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Competing with Unicorns",
+      "subtitle": "How the World's Best Companies Ship Software and Work Differently",
+      "authors": [
+        "Jnoathan Rasmusson"
+      ],
+      "tags": [
+        "Management"
+      ],
+      "started_at": "2025-04-19"
+    }
+  },
+  {
+    "timestamp": "2025-04-28",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "カラフル",
+      "authors": [
+        "森 絵都"
+      ],
+      "tags": [
+        "Fiction",
+        "日本語"
+      ],
+      "started_at": "2025-04-19"
+    }
+  },
+  {
+    "timestamp": "2025-05-02",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Throughput Accounting",
+      "authors": [
+        "Thomas Corbett"
+      ],
+      "tags": [
+        "Management"
+      ],
+      "started_at": "2025-04-23"
+    }
+  },
+  {
+    "timestamp": "2025-05-09",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Search Inside Yourself",
+      "authors": [
+        "Chade-Meng Tan"
+      ],
+      "started_at": "2025-03-09",
+      "tags": []
+    }
+  },
+  {
+    "timestamp": "2025-05-24",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Thinking in Systems",
+      "subtitle": "A Primer",
+      "authors": [
+        "Donella H. Meadows"
+      ],
+      "started_at": "2025-05-02",
+      "tags": []
+    }
+  },
+  {
+    "timestamp": "2025-06-18",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Python & Excel 自動処理",
+      "subtitle": "全部入り",
+      "started_at": "2025-05-27",
+      "tags": [
+        "Engineering",
+        "Python",
+        "日本語"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-06-21",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "The Visual Display of Quantitative Information",
+      "subtitle": "全部入り",
+      "authors": [
+        "Edward R. Tufte"
+      ],
+      "started_at": "2025-05-28",
+      "tags": [
+        "Design"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-07-06",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "たゆたえども沈まず",
+      "authors": [
+        "原田マハ"
+      ],
+      "started_at": "2025-04-29",
+      "tags": [
+        "Fiction",
+        "日本語"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-07-08",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "The Theory of Constraints",
+      "subtitle": "And Its Implications for Management Accounting",
+      "authors": [
+        "Eric W. Noreen",
+        "Debra Smith",
+        "James T. Mackey"
+      ],
+      "started_at": "2025-07-04",
+      "tags": [
+        "Accounting"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-07-15",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "十五才",
+      "authors": [
+        "山田洋次"
+      ],
+      "started_at": "2025-07-07",
+      "tags": [
+        "Fiction",
+        "日本語",
+        "日本文学"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-07-21",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "No Rules Rules",
+      "subtitle": "Netflix and the Culture of Reinvention",
+      "authors": [
+        "Reed Hastings",
+        "Erin Meyer"
+      ],
+      "started_at": "2025-07-09",
+      "tags": [
+        "Management"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-04",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Think Fast, Talk Smart",
+      "subtitle": "米MBA生が学ぶ「急に話を振られても困らない」ためのアドリブ力",
+      "authors": [
+        "Matt Abrahams"
+      ],
+      "started_at": "2025-07-22",
+      "tags": []
+    }
+  },
+  {
+    "timestamp": "2025-09-23",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "剣客商売 1",
+      "authors": [
+        "池波正太郎"
+      ],
+      "started_at": "2025-07-15",
+      "tags": [
+        "Fiction",
+        "日本語",
+        "日本文学"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-18",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Governing the Commons",
+      "authors": [
+        "Elinor Ostrom"
+      ],
+      "started_at": "2025-08-18",
+      "tags": [
+        "Organizations"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-30",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "実践 日本版 FP&A",
+      "authors": [
+        "池側 千絵"
+      ],
+      "started_at": "2025-10-19",
+      "tags": [
+        "Accounting",
+        "日本語"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-11-12",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "行政書士",
+      "subtitle": "合格へのはじめの一歩",
+      "started_at": "2025-06-29",
+      "tags": [
+        "Legal",
+        "日本語"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-11-29",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "アイヌもやもや",
+      "authors": [
+        "北原モコットゥナㇱ",
+        "田房永子"
+      ],
+      "started_at": "2025-06-29",
+      "tags": [
+        "日本語"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-12-06",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "失敗の本質",
+      "subtitle": "日本軍の組織論的研究",
+      "authors": [
+        "戸部良一",
+        "鎌田伸一",
+        "村井友秀",
+        "寺本義也",
+        "松野尾孝生",
+        "野中郁次郎"
+      ],
+      "started_at": "2025-11-12",
+      "tags": [
+        "Organizations",
+        "日本語",
+        "日本史"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-12-12",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "The Logic of Collective Action",
+      "subtitle": "Public Goods and the Theory of Groups",
+      "authors": [
+        "Mancur Olson"
+      ],
+      "started_at": "2025-12-07",
+      "tags": [
+        "Organizations"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-12-22",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Imagined Communities",
+      "subtitle": "Reflections on the Origin and Spread of Nationalism",
+      "authors": [
+        "Benedict Anderson"
+      ],
+      "started_at": "2025-12-13",
+      "tags": [
+        "History",
+        "Philosophy"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-01-22 00:00:00",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Don't Make Me Think",
+      "authors": [
+        "Steve Krug"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-01-22 00:00:01",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "The Count of Monte Cristo",
+      "authors": [
+        "Alexandre Dumas"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-01-22 00:00:02",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "自動車の仕組み",
+      "authors": [
+        "野崎 博路"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-01-22 00:00:03",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "How to solve it",
+      "authors": [
+        "George Polya"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-01-22 00:00:04",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "望み",
+      "authors": [
+        "雫井 侑介"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-01-22 00:00:05",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "こころ",
+      "authors": [
+        "夏目 漱石"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-01-22 00:00:06",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Brave New World",
+      "authors": [
+        "Aldous Huxley"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-01-22 00:00:07",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "税の仕組みとルール"
+    }
+  },
+  {
+    "timestamp": "2023-01-22 00:00:08",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Continuous Delivery",
+      "subtitle": "Reliable Software Releases through Build, Test, and Deployment Automation",
+      "authors": [
+        "David Farley",
+        "Jez Humble"
+      ],
+      "review": "Basically the \"what\", \"why\" and \"how\" of continuous integration (CI) and delivery (CD). Goes into great detail to explain why having a good CI/CD system is good and what benefits it gives with respect to software stability, e.g. number of bugs.\n",
+      "tags": [
+        "DevOps"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-01-22 00:00:09",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Great Tales of Horror",
+      "authors": [
+        "H.P. Lovecraft"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-01-22 00:00:10",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Norse Mythology",
+      "authors": [
+        "Neil Gaiman"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-01-22 00:00:11",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "FX取引の王道",
+      "authors": [
+        "大西 知生"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-01-22 00:00:12",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "うつヌケ",
+      "authors": [
+        "田中 圭一"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-01-22 00:00:13",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "写真がもっと上手くなるポートレートテクニック辞典",
+      "tags": [
+        "Photography",
+        "日本語"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-01-22 00:00:14",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "カメラのきほん練習帳",
+      "authors": [
+        "松本 茜"
+      ],
+      "tags": [
+        "Photography",
+        "日本語"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-01-22 00:00:15",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "写真からドラマを生み出すにはどう撮るか？",
+      "authors": [
+        "高橋 伸哉"
+      ],
+      "tags": [
+        "Photography",
+        "日本語"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-01-22 00:00:16",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "美しい風景写真のマイルール",
+      "tags": [
+        "Photography",
+        "日本語"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-01-22 00:00:17",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "音響工学基礎"
+    }
+  },
+  {
+    "timestamp": "2023-01-22 00:00:18",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "PAお役立ちハンドブック"
+    }
+  },
+  {
+    "timestamp": "2023-01-22 00:00:19",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "PA入門"
+    }
+  },
+  {
+    "timestamp": "2023-01-22 00:00:20",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "プレパラータ先生の超並列計算講義",
+      "authors": [
+        "F.P. Preparata"
+      ]
+    }
+  },
+  {
+    "timestamp": "2023-01-22 00:00:21",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "3000円投資生活",
+      "authors": [
+        "横山 光昭"
+      ]
+    }
   }
 ]
