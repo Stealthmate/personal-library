@@ -537,6 +537,9 @@
       "title": "知識ゼロからの仏教入門",
       "authors": [
         "長田幸康"
+      ],
+      "tags": [
+        "日本語"
       ]
     }
   },
@@ -547,6 +550,9 @@
       "title": "数理モデル思考で紐解く ルールデザイン",
       "authors": [
         "江崎貴裕"
+      ],
+      "tags": [
+        "日本語"
       ]
     }
   },
@@ -583,6 +589,10 @@
       "title": "自分の親に読んでほしかった本",
       "authors": [
         "フィリッパ・ペリー"
+      ],
+      "tags": [
+        "Psychology",
+        "日本語"
       ]
     }
   },
@@ -593,7 +603,8 @@
       "title": "Bullshit Jobs",
       "authors": [
         "David Graeber"
-      ]
+      ],
+      "tags": []
     }
   },
   {
@@ -942,7 +953,7 @@
       "subtitle": "全部入り",
       "started_at": "2025-05-27",
       "tags": [
-        "Engineering",
+        "Coding",
         "Python",
         "日本語"
       ]
