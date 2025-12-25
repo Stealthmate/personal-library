@@ -82,7 +82,7 @@
                         let q = this.query.toLowerCase();
                         return [
                             r.title.toLowerCase().includes(q),
-                            r.subtitle.toLowerCase().includes(q)
+                            (r.subtitle || "").toLowerCase().includes(q)
                         ].some(x => x);
                     });
                 }
