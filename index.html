@@ -64,13 +64,26 @@
         createApp({
             template: '#app-template',
             data() {
-                return { resources: DATA, query: '', selectedTags: [] };
+                return {
+                    resources: DATA.map(e => {
+                        let r = {
+                            ...e.payload,
+                            finished_at: e.timestamp,
+                            tags: (e.payload.tags || []),
+                            subtitle: (e.payload.subtitle || ""),
+                            authors: (e.payload.authors || [])
+                        };
+                        return r;
+                    }),
+                    query: '',
+                    selectedTags: []
+                };
             },
             computed: {
                 theTags() {
                     let tags = new Set();
                     this.resources.forEach(r => {
-                        (r.tags || []).forEach(t => tags.add(t));
+                        r.tags.forEach(t => tags.add(t));
                     });
                     return Array.from(tags);
                 },
@@ -82,7 +95,7 @@
                         let q = this.query.toLowerCase();
                         return [
                             r.title.toLowerCase().includes(q),
-                            (r.subtitle || "").toLowerCase().includes(q)
+                            r.subtitle.toLowerCase().includes(q)
                         ].some(x => x);
                     });
                 }
