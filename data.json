@@ -465,7 +465,9 @@
         "成田良悟"
       ],
       "tags": [
-        "Fiction"
+        "Fiction",
+        "日本語",
+        "日本文学"
       ],
       "started_at": "2023-12-10"
     }
@@ -479,7 +481,9 @@
         "成田良悟"
       ],
       "tags": [
-        "Fiction"
+        "Fiction",
+        "日本語",
+        "日本文学"
       ],
       "started_at": "2024-01-21"
     }
@@ -506,7 +510,9 @@
         "成田良悟"
       ],
       "tags": [
-        "Fiction"
+        "Fiction",
+        "日本語",
+        "日本文学"
       ]
     }
   },
@@ -871,6 +877,7 @@
       "title": "平家物語",
       "tags": [
         "日本語",
+        "日本文学",
         "古典"
       ],
       "started_at": "2025-02-01"
@@ -901,7 +908,8 @@
       ],
       "tags": [
         "Fiction",
-        "日本語"
+        "日本語",
+        "日本文学"
       ],
       "started_at": "2025-04-19"
     }
@@ -929,7 +937,9 @@
         "Chade-Meng Tan"
       ],
       "started_at": "2025-03-09",
-      "tags": []
+      "tags": [
+        "Self-help"
+      ]
     }
   },
   {
@@ -985,7 +995,8 @@
       "started_at": "2025-04-29",
       "tags": [
         "Fiction",
-        "日本語"
+        "日本語",
+        "日本文学"
       ]
     }
   },
@@ -1048,7 +1059,9 @@
         "Matt Abrahams"
       ],
       "started_at": "2025-07-22",
-      "tags": []
+      "tags": [
+        "Self-help"
+      ]
     }
   },
   {
@@ -1173,7 +1186,8 @@
       "started_at": "2025-12-13",
       "tags": [
         "History",
-        "Philosophy"
+        "Philosophy",
+        "Organizations"
       ]
     }
   },
