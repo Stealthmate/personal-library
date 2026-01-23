@@ -592,7 +592,7 @@
     "timestamp": "2024-09-17",
     "payload": {
       "type_": "BOOK_COMPLETED",
-      "title": "自分の親に読んでほしかった本",
+      "title": "自分の親に読んで欲しかった本",
       "authors": [
         "フィリッパ・ペリー"
       ],
@@ -1206,6 +1206,69 @@
       "tags": [
         "Fiction"
       ]
+    }
+  },
+  {
+    "timestamp": "2025-12-28",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "Attached",
+      "subtitle": "The new science of adult attachment and how it can help you find – and keep – love",
+      "authors": [
+        "Amir Levine",
+        "Rachel S. F. Heller"
+      ],
+      "started_at": "2025-12-22",
+      "tags": [
+        "Psychology"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-09",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "デュラララ 4",
+      "authors": [
+        "成田良悟"
+      ],
+      "tags": [
+        "Fiction",
+        "日本語",
+        "日本文学"
+      ],
+      "started_at": "2024-06-25"
+    }
+  },
+  {
+    "timestamp": "2026-01-09",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "芸術としてのカウンセリング入門",
+      "authors": [
+        "杉原保史"
+      ],
+      "tags": [
+        "Psychology",
+        "日本語"
+      ],
+      "started_at": "2025-12-28"
+    }
+  },
+  {
+    "timestamp": "2026-01-18",
+    "payload": {
+      "type_": "BOOK_COMPLETED",
+      "title": "デュラララ 5",
+      "authors": [
+        "成田良悟"
+      ],
+      "tags": [
+        "Fiction",
+        "日本語",
+        "日本文学"
+      ],
+      "started_at": "2026-01-10"
     }
   },
   {
