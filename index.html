@@ -9,8 +9,15 @@
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/vuetify@3.3.13/dist/vuetify.min.js"></script>
     <style>
-        .v-chip.selected {
-            color: #0077AA;
+        .v-chip.selectable {
+            opacity: 0.5;
+        }
+        .v-chip.selectable.selected {
+            opacity: 1.0;
+        }
+
+        .chip-language {
+            color: #00AA55;
         }
     </style>
 </head>
@@ -27,8 +34,11 @@
                         <v-card flat>
                             <v-card-text class="d-flex flex-column">
                                 <v-text-field v-model="query" variant="underlined" placeholder="Search..." />
+                                <v-chip-group v-model="selectedLanguages" filter multiple>
+                                    <v-chip v-for="language in theLanguages" class="selectable chip-language" :value="language" selected-class="selected">{{ language }}</v-chip>
+                                </v-chip-group>
                                 <v-chip-group v-model="selectedTags" filter multiple>
-                                    <v-chip v-for="tag in theTags" :value="tag" selected-class="selected">{{ tag }}</v-chip>
+                                    <v-chip v-for="tag in theTags" class="selectable" :value="tag" selected-class="selected">{{ tag }}</v-chip>
                                 </v-chip-group>
                             </v-card-text>
                         </v-card>
@@ -47,6 +57,7 @@
                             <v-card-text class="d-flex flex-column align-start">
                                 <div class="font-italic">{{ resource.review }}</div>
                                 <div class="align-self-end mt-3 ">
+                                    <v-chip class="chip-language">{{ resource.language }}</v-chip>
                                     <v-chip v-for="tag in resource.tags">{{ tag }}</v-chip>
                                 </div>
                             </v-card-text>
@@ -67,16 +78,16 @@
                 return {
                     resources: DATA.map(e => {
                         let r = {
-                            ...e.payload,
-                            finished_at: e.timestamp,
-                            tags: (e.payload.tags || []),
-                            subtitle: (e.payload.subtitle || ""),
-                            authors: (e.payload.authors || [])
+                            ...e,
+                            tags: (e.tags || []),
+                            subtitle: (e.subtitle || ""),
+                            authors: (e.authors || [])
                         };
                         return r;
                     }),
                     query: '',
-                    selectedTags: []
+                    selectedTags: [],
+                    selectedLanguages: []
                 };
             },
             computed: {
@@ -87,8 +98,16 @@
                     });
                     return Array.from(tags);
                 },
+                theLanguages() {
+                    return this.setOfValues('language');
+                },
                 filteredResources() {
-                    return this.resources.filter(r => {
+                    return this.resources.filter(
+                        r => {
+                            if(this.selectedLanguages.length === 0) return true;
+                            return this.selectedLanguages.includes(r.language);
+                        }
+                    ).filter(r => {
                         return this.selectedTags.every(t => r.tags.includes(t));
                     }).filter(r => {
                         if (this.query === "") return true;
@@ -98,6 +117,17 @@
                             r.subtitle.toLowerCase().includes(q)
                         ].some(x => x);
                     });
+                }
+            },
+            methods: {
+                setOfValues(field) {
+                    let values = new Set();
+                    this.resources.forEach(r => {
+                        if(r[field]) {
+                            values.add(r[field])
+                        }
+                    });
+                    return Array.from(values);
                 }
             }
         }).use(createVuetify()).mount('#app');
