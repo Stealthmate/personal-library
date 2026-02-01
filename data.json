@@ -441,7 +441,7 @@
     "language": "日本語",
     "started_at": "2023-12-10",
     "tags": [
-      "日本文学"
+      "Japanese Literature"
     ],
     "title": "デュラララ 1"
   },
@@ -454,7 +454,7 @@
     "language": "日本語",
     "started_at": "2024-01-21",
     "tags": [
-      "日本文学"
+      "Japanese Literature"
     ],
     "title": "デュラララ 2"
   },
@@ -466,7 +466,8 @@
     "finished_at": "2024-05-08",
     "language": "English",
     "tags": [
-      "Management"
+      "Management",
+      "Leadership"
     ],
     "title": "Start with Why"
   },
@@ -478,7 +479,7 @@
     "finished_at": "2024-06-23",
     "language": "日本語",
     "tags": [
-      "日本文学"
+      "Japanese Literature"
     ],
     "title": "デュラララ 3"
   },
@@ -576,7 +577,8 @@
     "language": "日本語",
     "started_at": "2024-09-23",
     "tags": [
-      "History"
+      "History",
+      "Japanese History"
     ],
     "title": "日本史の教科書"
   },
@@ -615,7 +617,8 @@
     "language": "English",
     "started_at": "2024-11-08",
     "tags": [
-      "Management"
+      "Management",
+      "Communication"
     ],
     "title": "The Five Dysfunctions of a Team"
   },
@@ -628,7 +631,7 @@
     "language": "English",
     "started_at": "2024-11-04",
     "tags": [
-      "Management"
+      "Communication"
     ],
     "title": "How to Win Friends and Influence People"
   },
@@ -641,7 +644,7 @@
     "language": "日本語",
     "started_at": "2024-11-04",
     "tags": [
-      "古典"
+      "Classics"
     ],
     "title": "孫氏"
   },
@@ -681,7 +684,8 @@
     "started_at": "2024-12-02",
     "subtitle": "And What You Can Learn from Their Mistakes",
     "tags": [
-      "Management"
+      "Management",
+      "Leadership"
     ],
     "title": "Why Smart Executives Fail"
   },
@@ -746,11 +750,10 @@
     ],
     "fiction": false,
     "finished_at": "2025-02-05",
-    "language": "日本語",
+    "language": "English",
     "started_at": "2025-02-02",
     "tags": [
-      "Management",
-      "Agile"
+      "Leadership"
     ],
     "title": "The Prince"
   },
@@ -799,19 +802,19 @@
     "title": "Egyptian Mythology"
   },
   {
-    "fiction": false,
+    "fiction": true,
     "finished_at": "2025-04-19",
     "language": "日本語",
     "started_at": "2025-02-01",
     "tags": [
-      "日本文学",
-      "古典"
+      "Japanese Literature",
+      "Classics"
     ],
     "title": "平家物語"
   },
   {
     "authors": [
-      "Jnoathan Rasmusson"
+      "Jonathan Rasmusson"
     ],
     "fiction": false,
     "finished_at": "2025-04-23",
@@ -832,7 +835,7 @@
     "language": "日本語",
     "started_at": "2025-04-19",
     "tags": [
-      "日本文学"
+      "Japanese Literature"
     ],
     "title": "カラフル"
   },
@@ -909,7 +912,7 @@
     "language": "日本語",
     "started_at": "2025-04-29",
     "tags": [
-      "日本文学"
+      "Japanese Literature"
     ],
     "title": "たゆたえども沈まず"
   },
@@ -938,7 +941,7 @@
     "language": "日本語",
     "started_at": "2025-07-07",
     "tags": [
-      "日本文学"
+      "Japanese Literature"
     ],
     "title": "十五才"
   },
@@ -953,7 +956,8 @@
     "started_at": "2025-07-09",
     "subtitle": "Netflix and the Culture of Reinvention",
     "tags": [
-      "Management"
+      "Management",
+      "Leadership"
     ],
     "title": "No Rules Rules"
   },
@@ -980,7 +984,7 @@
     "language": "日本語",
     "started_at": "2025-07-15",
     "tags": [
-      "日本文学"
+      "Japanese Literature"
     ],
     "title": "剣客商売 1"
   },
@@ -1017,7 +1021,7 @@
     "started_at": "2025-06-29",
     "subtitle": "合格へのはじめの一歩",
     "tags": [
-      "Legal"
+      "Law"
     ],
     "title": "行政書士"
   },
@@ -1049,7 +1053,8 @@
     "subtitle": "日本軍の組織論的研究",
     "tags": [
       "Sociology",
-      "日本史"
+      "History",
+      "Japanese History"
     ],
     "title": "失敗の本質"
   },
@@ -1078,7 +1083,6 @@
     "subtitle": "Reflections on the Origin and Spread of Nationalism",
     "tags": [
       "History",
-      "Philosophy",
       "Sociology"
     ],
     "title": "Imagined Communities"
@@ -1118,7 +1122,7 @@
     "language": "日本語",
     "started_at": "2024-06-25",
     "tags": [
-      "日本文学"
+      "Japanese Literature"
     ],
     "title": "デュラララ 4"
   },
@@ -1144,7 +1148,7 @@
     "language": "日本語",
     "started_at": "2026-01-10",
     "tags": [
-      "日本文学"
+      "Japanese Literature"
     ],
     "title": "デュラララ 5"
   },
@@ -1153,8 +1157,9 @@
       "Clayton M. Christensen"
     ],
     "fiction": false,
+    "finished_at": "2026-01-27",
     "language": "English",
-    "started_at": "206-01-16",
+    "started_at": "2026-01-16",
     "subtitle": "The Revolutionary Book That Will Change the Way You Do Business",
     "tags": [
       "Management"
@@ -1169,9 +1174,48 @@
     "language": "日本語",
     "started_at": "2026-01-18",
     "tags": [
-      "日本文学"
+      "Japanese Literature"
     ],
     "title": "デュラララ 6"
+  },
+  {
+    "authors": [
+      "Marcus Aurelius"
+    ],
+    "fiction": false,
+    "finished_at": "2026-02-01",
+    "language": "English",
+    "started_at": "2025-12-26",
+    "tags": [
+      "Philosophy",
+      "Stoicism"
+    ],
+    "title": "Meditations"
+  },
+  {
+    "authors": [
+      "半藤一利"
+    ],
+    "fiction": false,
+    "language": "日本語",
+    "started_at": "2026-01-28",
+    "tags": [
+      "Leadership"
+    ],
+    "title": "日本型リーダーはなぜ失敗するのか"
+  },
+  {
+    "authors": [
+      "Lindsay C. Gibson"
+    ],
+    "fiction": false,
+    "language": "English",
+    "started_at": "2026-02-01",
+    "tags": [
+      "Psychology"
+    ],
+    "title": "Adult Children of Emotionally Immature Parents",
+    "subtitle": "How to Heal from Distant, Rejecting, or Self-Involved Parents"
   },
   {
     "authors": [
