@@ -9,7 +9,7 @@
     "review": "This is probably THE textbook on microservices. Honestly, some of the things here are understood only when you actually build a (bad) microservice system, but nevertheless it provides a lot of insight about why you might want to split certain systems, instead of having one giant one. It touches on a variety of topics, including communication, security, testing etc and it features pretty modern technologies, so it serves as a nice overview of the area.\n",
     "subtitle": "Designing Fine-Grained Systems",
     "tags": [
-      "Software Architecture"
+      "Software Development"
     ],
     "title": "Building Microservices"
   },
@@ -35,7 +35,7 @@
     "started_at": "2023-03-12",
     "subtitle": "By Example",
     "tags": [
-      "Coding"
+      "Software Development"
     ],
     "title": "Test-Driven Development"
   },
@@ -142,7 +142,7 @@
     "started_at": "2023-07-18",
     "subtitle": "Tackling Complexity in the Heart of Software",
     "tags": [
-      "Software Architecture"
+      "Software Development"
     ],
     "title": "Domain-Driven Design"
   },
@@ -182,7 +182,7 @@
     "started_at": "2023-07-27",
     "subtitle": "A Handbook of Agile Software Craftsmanship",
     "tags": [
-      "Coding"
+      "Software Development"
     ],
     "title": "Clean Code"
   },
@@ -197,7 +197,7 @@
     "started_at": "2023-08-13",
     "subtitle": "A Craftsman's Guide to Software Structure and Design",
     "tags": [
-      "Software Architecture"
+      "Software Development"
     ],
     "title": "Clean Architecture"
   },
@@ -279,7 +279,7 @@
     "started_at": "2023-09-29",
     "subtitle": "A Practical Guide",
     "tags": [
-      "Coding",
+      "Software Development",
       "Management"
     ],
     "title": "Peer Reviews in Software"
@@ -884,7 +884,7 @@
     "started_at": "2025-05-27",
     "subtitle": "全部入り",
     "tags": [
-      "Coding",
+      "Software Development",
       "Python"
     ],
     "title": "Python & Excel 自動処理"
