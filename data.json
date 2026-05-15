@@ -1,6 +1,19 @@
 [
   {
     "authors": [
+      "TODO"
+    ],
+    "title": "7日間でマスターする配色基礎講座",
+    "finished_at": "2023-01-29",
+    "started_at": "2023-01-22",
+    "language": "日本語",
+    "fiction": false,
+    "tags": [
+      "Design"
+    ]
+  },
+  {
+    "authors": [
       "Sam Newman"
     ],
     "fiction": false,
@@ -66,6 +79,18 @@
       "Management"
     ],
     "title": "ポーズ・光・色」が最高の表情を作り出す ポートレート写真術"
+  },
+  {
+    "authors": [
+      "TODO"
+    ],
+    "fiction": false,
+    "finished_at": "2023-06-18",
+    "language": "日本語",
+    "tags": [
+      "Machine Learning"
+    ],
+    "title": "ゼロから作る Deep Learning"
   },
   {
     "authors": [
@@ -1202,6 +1227,7 @@
     "fiction": true,
     "language": "日本語",
     "started_at": "2026-01-18",
+    "finished_at": "2026-02-26",
     "tags": [
       "Japanese Literature"
     ],
@@ -1228,8 +1254,11 @@
     "fiction": false,
     "language": "日本語",
     "started_at": "2026-01-28",
+    "finished_at": "2026-02-21",
     "tags": [
-      "Leadership"
+      "Leadership",
+      "History",
+      "Japanese History"
     ],
     "title": "日本型リーダーはなぜ失敗するのか"
   },
@@ -1240,6 +1269,7 @@
     "fiction": false,
     "language": "English",
     "started_at": "2026-02-01",
+    "finished_at": "2026-02-06",
     "tags": [
       "Psychology"
     ],
@@ -1248,10 +1278,182 @@
   },
   {
     "authors": [
+      "Jonice Webb",
+      "Christine Musello"
+    ],
+    "fiction": false,
+    "language": "English",
+    "started_at": "2026-02-06",
+    "finished_at": "2026-02-19",
+    "tags": [
+      "Psychology"
+    ],
+    "title": "Running on Empty",
+    "subtitle": "Overcome Your Childhood Emotional Neglect"
+  },
+  {
+    "authors": [
+      "Daniel H. Pink"
+    ],
+    "fiction": false,
+    "language": "English",
+    "started_at": "2026-02-19",
+    "finished_at": "2026-02-25",
+    "tags": [
+      "Psychology",
+      "Leadership"
+    ],
+    "title": "Drive",
+    "subtitle": "The Surprising Truth About What Motivates Us"
+  },
+  {
+    "authors": [
+      "堀江貴文"
+    ],
+    "fiction": false,
+    "language": "日本語",
+    "started_at": "2026-02-21",
+    "tags": [
+      "Misc"
+    ],
+    "title": "稼ぐが勝ち"
+  },
+  {
+    "authors": [
+      "Jonathan Haidt"
+    ],
+    "fiction": false,
+    "language": "English",
+    "started_at": "2026-03-01",
+    "finished_at": "2026-05-11",
+    "tags": [
+      "Sociology",
+      "Psychology"
+    ],
+    "title": "The Righteous Mind",
+    "subtitle": "Why Good People Are Divided by Politics and Religion"
+  },
+  {
+    "authors": [
+      "成田良悟"
+    ],
+    "fiction": true,
+    "language": "日本語",
+    "started_at": "2026-02-27",
+    "finished_at": "2026-03-11",
+    "tags": [
+      "Japanese Literature"
+    ],
+    "title": "デュラララ 7"
+  },
+  {
+    "authors": [
+      "成田良悟"
+    ],
+    "fiction": true,
+    "language": "日本語",
+    "started_at": "2026-03-13",
+    "finished_at": "2026-03-23",
+    "tags": [
+      "Japanese Literature"
+    ],
+    "title": "デュラララ 8"
+  },
+  {
+    "authors": [
+      "藤井猛"
+    ],
+    "fiction": false,
+    "language": "日本語",
+    "started_at": "2025-12-27",
+    "finished_at": "2026-03-13",
+    "tags": [
+      "将棋"
+    ],
+    "title": "藤井猛の攻めの基本戦略"
+  },
+  {
+    "authors": [
+      "成田良悟"
+    ],
+    "fiction": true,
+    "language": "日本語",
+    "started_at": "2026-03-14",
+    "finished_at": "2026-04-02",
+    "tags": [
+      "Japanese Literature"
+    ],
+    "title": "デュラララ 9"
+  },
+  {
+    "authors": [
+      "成田良悟"
+    ],
+    "fiction": true,
+    "language": "日本語",
+    "started_at": "2026-04-03",
+    "finished_at": "2026-04-12",
+    "tags": [
+      "Japanese Literature"
+    ],
+    "title": "デュラララ 10"
+  },
+  {
+    "authors": [
+      "成田良悟"
+    ],
+    "fiction": true,
+    "language": "日本語",
+    "started_at": "2026-04-13",
+    "finished_at": "2026-04-24",
+    "tags": [
+      "Japanese Literature"
+    ],
+    "title": "デュラララ 11"
+  },
+  {
+    "authors": [
+      "成田良悟"
+    ],
+    "fiction": true,
+    "language": "日本語",
+    "started_at": "2026-04-25",
+    "finished_at": "2026-05-05",
+    "tags": [
+      "Japanese Literature"
+    ],
+    "title": "デュラララ 12"
+  },
+  {
+    "authors": [
+      "David Piling"
+    ],
+    "fiction": false,
+    "language": "English",
+    "started_at": "2026-05-10",
+    "tags": [
+      "Economics"
+    ],
+    "title": "The Growth Delusion",
+    "subtitle": "Wealth, Poverty, and the Well-Being of Nations"
+  },
+  {
+    "authors": [
+      "TODO"
+    ],
+    "title": "Axiomatic Set Theory",
+    "finished_at": "2020-01-17",
+    "language": "English",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "authors": [
       "Steve Krug"
     ],
     "fiction": false,
-    "finished_at": "2023-01-22 00:00:00",
+    "finished_at": "2022-09-30",
     "language": "English",
     "tags": [
       "Design"
@@ -1263,7 +1465,7 @@
       "Alexandre Dumas"
     ],
     "fiction": true,
-    "finished_at": "2023-01-22 00:00:01",
+    "finished_at": "2022-09-30",
     "language": "English",
     "tags": [],
     "title": "The Count of Monte Cristo"
@@ -1273,7 +1475,7 @@
       "野崎 博路"
     ],
     "fiction": false,
-    "finished_at": "2023-01-22 00:00:02",
+    "finished_at": "2022-10-31",
     "language": "日本語",
     "tags": [
       "Cars"
@@ -1285,7 +1487,7 @@
       "George Polya"
     ],
     "fiction": false,
-    "finished_at": "2023-01-22 00:00:03",
+    "finished_at": "2022-10-31",
     "language": "English",
     "tags": [
       "Mathematics"
@@ -1297,7 +1499,7 @@
       "雫井 侑介"
     ],
     "fiction": true,
-    "finished_at": "2023-01-22 00:00:04",
+    "finished_at": "2022-10-31",
     "language": "日本語",
     "tags": [
       "Japanese Literature"
@@ -1309,7 +1511,7 @@
       "夏目 漱石"
     ],
     "fiction": true,
-    "finished_at": "2023-01-22 00:00:05",
+    "finished_at": "2022-10-31",
     "language": "日本語",
     "tags": [
       "Japanese Literature"
@@ -1321,14 +1523,14 @@
       "Aldous Huxley"
     ],
     "fiction": true,
-    "finished_at": "2023-01-22 00:00:06",
+    "finished_at": "2022-10-31",
     "language": "English",
     "tags": [],
     "title": "Brave New World"
   },
   {
     "fiction": false,
-    "finished_at": "2023-01-22 00:00:07",
+    "finished_at": "2022-11-30",
     "language": "日本語",
     "tags": [
       "Finance"
@@ -1341,7 +1543,7 @@
       "Jez Humble"
     ],
     "fiction": false,
-    "finished_at": "2023-01-22 00:00:08",
+    "finished_at": "2022-11-30",
     "language": "English",
     "review": "Basically the \"what\", \"why\" and \"how\" of continuous integration (CI) and delivery (CD). Goes into great detail to explain why having a good CI/CD system is good and what benefits it gives with respect to software stability, e.g. number of bugs.\n",
     "subtitle": "Reliable Software Releases through Build, Test, and Deployment Automation",
@@ -1355,7 +1557,7 @@
       "H.P. Lovecraft"
     ],
     "fiction": true,
-    "finished_at": "2023-01-22 00:00:09",
+    "finished_at": "2022-11-30",
     "language": "English",
     "tags": [],
     "title": "Great Tales of Horror"
@@ -1365,7 +1567,7 @@
       "Neil Gaiman"
     ],
     "fiction": false,
-    "finished_at": "2023-01-22 00:00:10",
+    "finished_at": "2022-11-30",
     "language": "English",
     "tags": [
       "Mythology"
@@ -1377,7 +1579,7 @@
       "大西 知生"
     ],
     "fiction": false,
-    "finished_at": "2023-01-22 00:00:11",
+    "finished_at": "2022-11-30",
     "language": "日本語",
     "tags": [
       "Finance"
@@ -1389,7 +1591,7 @@
       "田中 圭一"
     ],
     "fiction": true,
-    "finished_at": "2023-01-22 00:00:12",
+    "finished_at": "2022-12-31",
     "language": "日本語",
     "tags": [
       "Manga"
@@ -1398,7 +1600,7 @@
   },
   {
     "fiction": false,
-    "finished_at": "2023-01-22 00:00:13",
+    "finished_at": "2022-12-31",
     "language": "日本語",
     "tags": [
       "Photography"
@@ -1410,7 +1612,7 @@
       "松本 茜"
     ],
     "fiction": false,
-    "finished_at": "2023-01-22 00:00:14",
+    "finished_at": "2022-12-31",
     "language": "日本語",
     "tags": [
       "Photography"
@@ -1422,7 +1624,7 @@
       "高橋 伸哉"
     ],
     "fiction": false,
-    "finished_at": "2023-01-22 00:00:15",
+    "finished_at": "2022-12-31",
     "language": "日本語",
     "tags": [
       "Photography"
@@ -1431,7 +1633,7 @@
   },
   {
     "fiction": false,
-    "finished_at": "2023-01-22 00:00:16",
+    "finished_at": "2022-12-31",
     "language": "日本語",
     "tags": [
       "Photography"
@@ -1440,7 +1642,7 @@
   },
   {
     "fiction": false,
-    "finished_at": "2023-01-22 00:00:17",
+    "finished_at": "2023-01-18",
     "language": "日本語",
     "tags": [
       "Photography"
@@ -1449,7 +1651,7 @@
   },
   {
     "fiction": false,
-    "finished_at": "2023-01-22 00:00:18",
+    "finished_at": "2023-01-19",
     "language": "日本語",
     "tags": [
       "Sound Design"
@@ -1458,7 +1660,7 @@
   },
   {
     "fiction": false,
-    "finished_at": "2023-01-22 00:00:19",
+    "finished_at": "2023-01-20",
     "language": "日本語",
     "tags": [
       "Sound Design"
@@ -1470,7 +1672,7 @@
       "F.P. Preparata"
     ],
     "fiction": false,
-    "finished_at": "2023-01-22 00:00:20",
+    "finished_at": "2023-01-21",
     "language": "日本語",
     "tags": [
       "Computer Science"
@@ -1482,7 +1684,7 @@
       "横山 光昭"
     ],
     "fiction": false,
-    "finished_at": "2023-01-22 00:00:21",
+    "finished_at": "2023-01-22",
     "language": "日本語",
     "tags": [
       "Finance"
