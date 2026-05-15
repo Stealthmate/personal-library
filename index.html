@@ -8,6 +8,16 @@
     <link href="https://cdn.jsdelivr.net/npm/@mdi/font@5.x/css/materialdesignicons.min.css" rel="stylesheet">
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/vuetify@3.3.13/dist/vuetify.min.js"></script>
+    <!-- Load d3.js -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+    <!-- Load the sankey.js function -->
+    <script src="https://unpkg.com/d3-array@1"></script>
+    <script src="https://unpkg.com/d3-collection@1"></script>
+    <script src="https://unpkg.com/d3-path@1"></script>
+    <script src="https://unpkg.com/d3-shape@1"></script>
+    <script src="https://unpkg.com/d3-sankey@0"></script>
+
     <style>
         .v-chip.selectable {
             opacity: 0.5;
@@ -19,6 +29,14 @@
         .chip-language {
             color: #00AA55;
         }
+        .link {
+  fill: none;
+  stroke: #000;
+  stroke-opacity: .2;
+}
+.link:hover {
+  stroke-opacity: .5;
+}
     </style>
 </head>
 
@@ -30,6 +48,7 @@
             </v-app-bar>
             <v-main>
                 <v-container>
+                    <section ref="sankey" class="d-flex flex-column align-center"></section>
                     <section>
                         <v-card flat>
                             <v-card-text class="d-flex flex-column">
@@ -71,6 +90,7 @@
         const { createApp, ref } = Vue;
         const { createVuetify } = Vuetify;
         import DATA from './data.json' with { type: "json" };
+        import sankey from './sankey.js';
 
         createApp({
             template: '#app-template',
@@ -89,6 +109,9 @@
                     selectedTags: [],
                     selectedLanguages: []
                 };
+            },
+            mounted() {
+                sankey.draw(this.$refs.sankey);
             },
             computed: {
                 theTags() {

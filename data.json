@@ -3,19 +3,23 @@
     "authors": [
       "TODO"
     ],
-    "title": "7日間でマスターする配色基礎講座",
-    "finished_at": "2023-01-29",
-    "started_at": "2023-01-22",
-    "language": "日本語",
+    "cat1": "Humanities",
+    "cat2": "Visual Arts",
     "fiction": false,
+    "finished_at": "2023-01-29",
+    "language": "日本語",
+    "started_at": "2023-01-22",
     "tags": [
       "Design"
-    ]
+    ],
+    "title": "7日間でマスターする配色基礎講座"
   },
   {
     "authors": [
       "Sam Newman"
     ],
+    "cat1": "Applied Science",
+    "cat2": "Software Engineering",
     "fiction": false,
     "finished_at": "2023-02-25",
     "language": "English",
@@ -30,6 +34,8 @@
     "authors": [
       "大和田 良"
     ],
+    "cat1": "Humanities",
+    "cat2": "Visual Arts",
     "fiction": false,
     "finished_at": "2023-04-09",
     "language": "日本語",
@@ -43,6 +49,8 @@
     "authors": [
       "Kent Beck"
     ],
+    "cat1": "Applied Science",
+    "cat2": "Software Engineering",
     "fiction": false,
     "finished_at": "2023-06-10",
     "language": "English",
@@ -59,6 +67,8 @@
       "Manuel Pais",
       "Matthew Skelton"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2023-06-18",
     "language": "English",
@@ -71,6 +81,8 @@
     "title": "Team Topologies"
   },
   {
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2023-06-19",
     "language": "日本語",
@@ -84,11 +96,13 @@
     "authors": [
       "TODO"
     ],
+    "cat1": "Applied Science",
+    "cat2": "Software Engineering",
     "fiction": false,
     "finished_at": "2023-06-18",
     "language": "日本語",
     "tags": [
-      "Machine Learning"
+      "Software Development"
     ],
     "title": "ゼロから作る Deep Learning"
   },
@@ -96,6 +110,8 @@
     "authors": [
       "田中 達也"
     ],
+    "cat1": "Humanities",
+    "cat2": "Visual Arts",
     "fiction": false,
     "finished_at": "2023-06-25",
     "language": "日本語",
@@ -109,6 +125,8 @@
     "authors": [
       "柳谷紀一郎"
     ],
+    "cat1": "Other",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2023-07-09",
     "language": "日本語",
@@ -122,6 +140,8 @@
     "authors": [
       "柳田國男"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
     "finished_at": "2023-07-14 00:00:00",
     "language": "日本語",
@@ -135,6 +155,8 @@
     "authors": [
       "Jonathan Hassell"
     ],
+    "cat1": "Applied Science",
+    "cat2": "Software Engineering",
     "fiction": false,
     "finished_at": "2023-07-14 00:00:01",
     "language": "English",
@@ -142,12 +164,13 @@
     "started_at": "2023-07-09",
     "subtitle": "Securing Public Access to Private Resources",
     "tags": [
-      "Network",
-      "Security"
+      "Misc"
     ],
     "title": "RADIUS"
   },
   {
+    "cat1": "Other",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2023-07-16",
     "language": "日本語",
@@ -161,6 +184,8 @@
     "authors": [
       "矢作ちはる"
     ],
+    "cat1": "Other",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2023-07-20",
     "language": "日本語",
@@ -174,6 +199,8 @@
     "authors": [
       "Eric Evans"
     ],
+    "cat1": "Applied Science",
+    "cat2": "Software Engineering",
     "fiction": false,
     "finished_at": "2023-07-24",
     "language": "English",
@@ -189,13 +216,15 @@
     "authors": [
       "Philipp Dettmer"
     ],
+    "cat1": "Applied Science",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2023-08-01",
     "language": "English",
     "started_at": "2023-07-20",
     "subtitle": "A journey into the mysterious system that keeps you alive",
     "tags": [
-      "Medicine"
+      "Misc"
     ],
     "title": "Immune"
   },
@@ -203,6 +232,8 @@
     "authors": [
       "安藤広大"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2023-08-13 00:00:00",
     "language": "日本語",
@@ -216,6 +247,8 @@
     "authors": [
       "Robert Martin"
     ],
+    "cat1": "Applied Science",
+    "cat2": "Software Engineering",
     "fiction": false,
     "finished_at": "2023-08-13 00:00:01",
     "language": "English",
@@ -231,6 +264,8 @@
     "authors": [
       "Robert Martin"
     ],
+    "cat1": "Applied Science",
+    "cat2": "Software Engineering",
     "fiction": false,
     "finished_at": "2023-08-15",
     "language": "English",
@@ -250,6 +285,8 @@
       "Jez Humble",
       "John Allspaw"
     ],
+    "cat1": "Applied Science",
+    "cat2": "Software Engineering",
     "fiction": false,
     "finished_at": "2023-09-09",
     "language": "English",
@@ -265,6 +302,8 @@
     "authors": [
       "池田浩一"
     ],
+    "cat1": "Other",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2023-09-10",
     "language": "日本語",
@@ -278,6 +317,8 @@
     "authors": [
       "安藤広大"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2023-09-16",
     "language": "日本語",
@@ -291,6 +332,8 @@
     "authors": [
       "安藤広大"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2023-09-17",
     "language": "日本語",
@@ -304,6 +347,8 @@
     "authors": [
       "Edward Tufte"
     ],
+    "cat1": "Humanities",
+    "cat2": "Visual Arts",
     "fiction": false,
     "finished_at": "2023-09-22",
     "language": "English",
@@ -317,6 +362,8 @@
     "authors": [
       "Karl E. Wiegers"
     ],
+    "cat1": "Applied Science",
+    "cat2": "Software Engineering",
     "fiction": false,
     "finished_at": "2023-10-07",
     "language": "English",
@@ -334,6 +381,8 @@
       "Timothy Lister",
       "Tom DeMarco"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2023-10-09",
     "language": "English",
@@ -348,6 +397,8 @@
     "authors": [
       "Joel Spolsky"
     ],
+    "cat1": "Applied Science",
+    "cat2": "Software Engineering",
     "fiction": false,
     "finished_at": "2023-10-15",
     "language": "English",
@@ -358,6 +409,8 @@
     "title": "The Best Software Writing I"
   },
   {
+    "cat1": "Humanities",
+    "cat2": "Visual Arts",
     "fiction": false,
     "finished_at": "2023-10-19",
     "language": "日本語",
@@ -371,6 +424,8 @@
     "authors": [
       "星野富弘"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
     "finished_at": "2023-10-21 00:00:00",
     "language": "日本語",
@@ -382,6 +437,8 @@
     "authors": [
       "伴偵良"
     ],
+    "cat1": "Humanities",
+    "cat2": "Visual Arts",
     "fiction": false,
     "finished_at": "2023-10-21 00:00:01",
     "language": "日本語",
@@ -395,6 +452,8 @@
     "authors": [
       "Kief Morris"
     ],
+    "cat1": "Applied Science",
+    "cat2": "Software Engineering",
     "fiction": false,
     "finished_at": "2023-10-23",
     "language": "English",
@@ -411,6 +470,8 @@
       "Liz Fong-Jones",
       "George Miranda"
     ],
+    "cat1": "Applied Science",
+    "cat2": "Software Engineering",
     "fiction": false,
     "finished_at": "2023-11-03",
     "language": "English",
@@ -427,6 +488,8 @@
       "Kevin Behr",
       "George Spafford"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
     "finished_at": "2023-11-10",
     "language": "English",
@@ -441,6 +504,8 @@
     "authors": [
       "菅原一剛"
     ],
+    "cat1": "Humanities",
+    "cat2": "Visual Arts",
     "fiction": false,
     "finished_at": "2023-11-19",
     "language": "日本語",
@@ -454,6 +519,8 @@
     "authors": [
       "Pablo Coehlo"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
     "finished_at": "2023-11-28",
     "language": "English",
@@ -462,6 +529,8 @@
     "title": "The Alchemist"
   },
   {
+    "cat1": "Other",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2023-12-04",
     "language": "日本語",
@@ -472,6 +541,8 @@
     "title": "オオカミと野生のイヌ"
   },
   {
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2024-01-03",
     "language": "English",
@@ -485,6 +556,8 @@
     "authors": [
       "成田良悟"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
     "finished_at": "2024-01-15",
     "language": "日本語",
@@ -498,6 +571,8 @@
     "authors": [
       "成田良悟"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
     "finished_at": "2024-02-04",
     "language": "日本語",
@@ -511,6 +586,8 @@
     "authors": [
       "Simon Sinek"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2024-05-08",
     "language": "English",
@@ -524,6 +601,8 @@
     "authors": [
       "成田良悟"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
     "finished_at": "2024-06-23",
     "language": "日本語",
@@ -536,6 +615,8 @@
     "authors": [
       "鈴木克明"
     ],
+    "cat1": "Social Science",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2024-06-25",
     "language": "日本語",
@@ -543,6 +624,8 @@
     "title": "研修設計マニュアル"
   },
   {
+    "cat1": "Humanities",
+    "cat2": "Visual Arts",
     "fiction": false,
     "finished_at": "2024-06-27",
     "language": "日本語",
@@ -555,6 +638,8 @@
     "authors": [
       "長田幸康"
     ],
+    "cat1": "Humanities",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2024-07-10",
     "language": "日本語",
@@ -565,6 +650,8 @@
     "authors": [
       "江崎貴裕"
     ],
+    "cat1": "Social Science",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2024-07-17",
     "language": "日本語",
@@ -575,6 +662,8 @@
     "authors": [
       "Andrew Groove"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2024-07-21",
     "language": "English",
@@ -587,6 +676,8 @@
     "authors": [
       "Peter F. Drucker"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2024-08-03",
     "language": "English",
@@ -599,6 +690,8 @@
     "authors": [
       "フィリッパ・ペリー"
     ],
+    "cat1": "Social Science",
+    "cat2": "Psychology",
     "fiction": false,
     "finished_at": "2024-09-17",
     "language": "日本語",
@@ -611,6 +704,8 @@
     "authors": [
       "David Graeber"
     ],
+    "cat1": "Social Science",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2024-10-02",
     "language": "English",
@@ -621,6 +716,8 @@
     "authors": [
       "山﨑 圭一"
     ],
+    "cat1": "Humanities",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2024-10-27",
     "language": "日本語",
@@ -635,6 +732,8 @@
     "authors": [
       "金子 智朗"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2024-11-04",
     "language": "日本語",
@@ -649,6 +748,8 @@
     "authors": [
       "広木 大地"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2024-11-07",
     "language": "日本語",
@@ -662,6 +763,8 @@
     "authors": [
       "Patrick Lencioni"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2024-11-12",
     "language": "English",
@@ -676,6 +779,8 @@
     "authors": [
       "Dale Carnegie"
     ],
+    "cat1": "Social Science",
+    "cat2": "Psychology",
     "fiction": false,
     "finished_at": "2024-11-14",
     "language": "English",
@@ -689,12 +794,14 @@
     "authors": [
       "金谷 治"
     ],
+    "cat1": "Humanities",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2024-11-16",
     "language": "日本語",
     "started_at": "2024-11-04",
     "tags": [
-      "Classics"
+      "Misc"
     ],
     "title": "孫氏"
   },
@@ -702,6 +809,8 @@
     "authors": [
       "荒川 洋平"
     ],
+    "cat1": "Humanities",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2024-11-22",
     "language": "日本語",
@@ -714,6 +823,8 @@
       "Jeff Sutherland",
       "J. J. Sutherland"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2024-11-25",
     "language": "English",
@@ -728,6 +839,8 @@
     "authors": [
       "Sydney Finkelstein"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2024-12-12",
     "language": "English",
@@ -743,6 +856,8 @@
     "authors": [
       "岩尾 俊兵"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2025-01-05",
     "language": "日本語",
@@ -756,6 +871,8 @@
     "authors": [
       "伊賀 恭代"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2025-01-15",
     "language": "日本語",
@@ -769,6 +886,8 @@
     "authors": [
       "金子 智朗"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2025-01-23",
     "language": "日本語",
@@ -785,13 +904,14 @@
     "authors": [
       "小田中 育生"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2025-02-02",
     "language": "日本語",
     "started_at": "2025-01-23",
     "tags": [
-      "Management",
-      "Agile"
+      "Management"
     ],
     "title": "アジャイルチームによる目標づくりガイドブック"
   },
@@ -799,6 +919,8 @@
     "authors": [
       "Niccolo Machiavelli"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2025-02-05",
     "language": "English",
@@ -813,6 +935,8 @@
       "岸見 一郎",
       "古賀 史健"
     ],
+    "cat1": "Social Science",
+    "cat2": "Psychology",
     "fiction": false,
     "finished_at": "2025-02-14",
     "language": "日本語",
@@ -827,6 +951,8 @@
     "authors": [
       "Frederic Laloux"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2025-03-06",
     "language": "English",
@@ -842,24 +968,27 @@
     "authors": [
       "Geraldine Pinch"
     ],
+    "cat1": "Humanities",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2025-03-17",
     "language": "English",
     "started_at": "2025-02-07",
     "subtitle": "A Guide to the Gods, Goddesses, and Traditions of Ancient Egypt",
     "tags": [
-      "Egyptology"
+      "Mythology"
     ],
     "title": "Egyptian Mythology"
   },
   {
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
     "finished_at": "2025-04-19",
     "language": "日本語",
     "started_at": "2025-02-01",
     "tags": [
-      "Japanese Literature",
-      "Classics"
+      "Japanese Literature"
     ],
     "title": "平家物語"
   },
@@ -867,6 +996,8 @@
     "authors": [
       "Jonathan Rasmusson"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2025-04-23",
     "language": "English",
@@ -881,6 +1012,8 @@
     "authors": [
       "森 絵都"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
     "finished_at": "2025-04-28",
     "language": "日本語",
@@ -894,6 +1027,8 @@
     "authors": [
       "Thomas Corbett"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2025-05-02",
     "language": "English",
@@ -908,6 +1043,8 @@
     "authors": [
       "Chade-Meng Tan"
     ],
+    "cat1": "Humanities",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2025-05-09",
     "language": "English",
@@ -921,6 +1058,8 @@
     "authors": [
       "Donella H. Meadows"
     ],
+    "cat1": "Formal Science",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2025-05-24",
     "language": "English",
@@ -930,14 +1069,15 @@
     "title": "Thinking in Systems"
   },
   {
+    "cat1": "Applied Science",
+    "cat2": "Software Engineering",
     "fiction": false,
     "finished_at": "2025-06-18",
     "language": "日本語",
     "started_at": "2025-05-27",
     "subtitle": "全部入り",
     "tags": [
-      "Software Development",
-      "Python"
+      "Software Development"
     ],
     "title": "Python & Excel 自動処理"
   },
@@ -945,6 +1085,8 @@
     "authors": [
       "Edward R. Tufte"
     ],
+    "cat1": "Humanities",
+    "cat2": "Visual Arts",
     "fiction": false,
     "finished_at": "2025-06-21",
     "language": "English",
@@ -959,6 +1101,8 @@
     "authors": [
       "原田マハ"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
     "finished_at": "2025-07-06",
     "language": "日本語",
@@ -974,6 +1118,8 @@
       "Debra Smith",
       "James T. Mackey"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2025-07-08",
     "language": "English",
@@ -989,6 +1135,8 @@
     "authors": [
       "山田洋次"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
     "finished_at": "2025-07-15",
     "language": "日本語",
@@ -1003,6 +1151,8 @@
       "Reed Hastings",
       "Erin Meyer"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2025-07-21",
     "language": "English",
@@ -1018,6 +1168,8 @@
     "authors": [
       "Matt Abrahams"
     ],
+    "cat1": "Social Science",
+    "cat2": "Psychology",
     "fiction": false,
     "finished_at": "2025-08-04",
     "language": "English",
@@ -1032,6 +1184,8 @@
     "authors": [
       "池波正太郎"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
     "finished_at": "2025-09-23",
     "language": "日本語",
@@ -1045,6 +1199,8 @@
     "authors": [
       "Elinor Ostrom"
     ],
+    "cat1": "Social Science",
+    "cat2": "Sociology",
     "fiction": false,
     "finished_at": "2025-10-18",
     "language": "English",
@@ -1058,6 +1214,8 @@
     "authors": [
       "池側 千絵"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2025-10-30",
     "language": "日本語",
@@ -1069,13 +1227,15 @@
     "title": "実践 日本版 FP&A"
   },
   {
+    "cat1": "Humanities",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2025-11-12",
     "language": "日本語",
     "started_at": "2025-06-29",
     "subtitle": "合格へのはじめの一歩",
     "tags": [
-      "Law"
+      "Misc"
     ],
     "title": "行政書士"
   },
@@ -1084,6 +1244,8 @@
       "北原モコットゥナㇱ",
       "田房永子"
     ],
+    "cat1": "Humanities",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2025-11-29",
     "language": "日本語",
@@ -1100,6 +1262,8 @@
       "松野尾孝生",
       "野中郁次郎"
     ],
+    "cat1": "Social Science",
+    "cat2": "Sociology",
     "fiction": false,
     "finished_at": "2025-12-06",
     "language": "日本語",
@@ -1116,6 +1280,8 @@
     "authors": [
       "Mancur Olson"
     ],
+    "cat1": "Social Science",
+    "cat2": "Sociology",
     "fiction": false,
     "finished_at": "2025-12-12",
     "language": "English",
@@ -1130,6 +1296,8 @@
     "authors": [
       "Benedict Anderson"
     ],
+    "cat1": "Social Science",
+    "cat2": "Sociology",
     "fiction": false,
     "finished_at": "2025-12-22",
     "language": "English",
@@ -1145,6 +1313,8 @@
     "authors": [
       "Steven Erikson"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
     "finished_at": "2025-12-27",
     "language": "English",
@@ -1157,6 +1327,8 @@
       "Amir Levine",
       "Rachel S. F. Heller"
     ],
+    "cat1": "Social Science",
+    "cat2": "Psychology",
     "fiction": false,
     "finished_at": "2025-12-28",
     "language": "English",
@@ -1171,6 +1343,8 @@
     "authors": [
       "成田良悟"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
     "finished_at": "2026-01-09",
     "language": "日本語",
@@ -1184,6 +1358,8 @@
     "authors": [
       "杉原保史"
     ],
+    "cat1": "Social Science",
+    "cat2": "Psychology",
     "fiction": false,
     "finished_at": "2026-01-09",
     "language": "日本語",
@@ -1197,6 +1373,8 @@
     "authors": [
       "成田良悟"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
     "finished_at": "2026-01-18",
     "language": "日本語",
@@ -1210,6 +1388,8 @@
     "authors": [
       "Clayton M. Christensen"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2026-01-27",
     "language": "English",
@@ -1224,10 +1404,12 @@
     "authors": [
       "成田良悟"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
+    "finished_at": "2026-02-26",
     "language": "日本語",
     "started_at": "2026-01-18",
-    "finished_at": "2026-02-26",
     "tags": [
       "Japanese Literature"
     ],
@@ -1237,13 +1419,14 @@
     "authors": [
       "Marcus Aurelius"
     ],
+    "cat1": "Humanities",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2026-02-01",
     "language": "English",
     "started_at": "2025-12-26",
     "tags": [
-      "Philosophy",
-      "Stoicism"
+      "Misc"
     ],
     "title": "Meditations"
   },
@@ -1251,10 +1434,12 @@
     "authors": [
       "半藤一利"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
+    "finished_at": "2026-02-21",
     "language": "日本語",
     "started_at": "2026-01-28",
-    "finished_at": "2026-02-21",
     "tags": [
       "Leadership",
       "History",
@@ -1266,50 +1451,58 @@
     "authors": [
       "Lindsay C. Gibson"
     ],
+    "cat1": "Social Science",
+    "cat2": "Psychology",
     "fiction": false,
+    "finished_at": "2026-02-06",
     "language": "English",
     "started_at": "2026-02-01",
-    "finished_at": "2026-02-06",
+    "subtitle": "How to Heal from Distant, Rejecting, or Self-Involved Parents",
     "tags": [
       "Psychology"
     ],
-    "title": "Adult Children of Emotionally Immature Parents",
-    "subtitle": "How to Heal from Distant, Rejecting, or Self-Involved Parents"
+    "title": "Adult Children of Emotionally Immature Parents"
   },
   {
     "authors": [
       "Jonice Webb",
       "Christine Musello"
     ],
+    "cat1": "Social Science",
+    "cat2": "Psychology",
     "fiction": false,
+    "finished_at": "2026-02-19",
     "language": "English",
     "started_at": "2026-02-06",
-    "finished_at": "2026-02-19",
+    "subtitle": "Overcome Your Childhood Emotional Neglect",
     "tags": [
       "Psychology"
     ],
-    "title": "Running on Empty",
-    "subtitle": "Overcome Your Childhood Emotional Neglect"
+    "title": "Running on Empty"
   },
   {
     "authors": [
       "Daniel H. Pink"
     ],
+    "cat1": "Social Science",
+    "cat2": "Psychology",
     "fiction": false,
+    "finished_at": "2026-02-25",
     "language": "English",
     "started_at": "2026-02-19",
-    "finished_at": "2026-02-25",
+    "subtitle": "The Surprising Truth About What Motivates Us",
     "tags": [
       "Psychology",
       "Leadership"
     ],
-    "title": "Drive",
-    "subtitle": "The Surprising Truth About What Motivates Us"
+    "title": "Drive"
   },
   {
     "authors": [
       "堀江貴文"
     ],
+    "cat1": "Other",
+    "cat2": "Other",
     "fiction": false,
     "language": "日本語",
     "started_at": "2026-02-21",
@@ -1322,25 +1515,29 @@
     "authors": [
       "Jonathan Haidt"
     ],
+    "cat1": "Social Science",
+    "cat2": "Sociology",
     "fiction": false,
+    "finished_at": "2026-05-11",
     "language": "English",
     "started_at": "2026-03-01",
-    "finished_at": "2026-05-11",
+    "subtitle": "Why Good People Are Divided by Politics and Religion",
     "tags": [
       "Sociology",
       "Psychology"
     ],
-    "title": "The Righteous Mind",
-    "subtitle": "Why Good People Are Divided by Politics and Religion"
+    "title": "The Righteous Mind"
   },
   {
     "authors": [
       "成田良悟"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
+    "finished_at": "2026-03-11",
     "language": "日本語",
     "started_at": "2026-02-27",
-    "finished_at": "2026-03-11",
     "tags": [
       "Japanese Literature"
     ],
@@ -1350,10 +1547,12 @@
     "authors": [
       "成田良悟"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
+    "finished_at": "2026-03-23",
     "language": "日本語",
     "started_at": "2026-03-13",
-    "finished_at": "2026-03-23",
     "tags": [
       "Japanese Literature"
     ],
@@ -1363,12 +1562,14 @@
     "authors": [
       "藤井猛"
     ],
+    "cat1": "Other",
+    "cat2": "Other",
     "fiction": false,
+    "finished_at": "2026-03-13",
     "language": "日本語",
     "started_at": "2025-12-27",
-    "finished_at": "2026-03-13",
     "tags": [
-      "将棋"
+      "Misc"
     ],
     "title": "藤井猛の攻めの基本戦略"
   },
@@ -1376,10 +1577,12 @@
     "authors": [
       "成田良悟"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
+    "finished_at": "2026-04-02",
     "language": "日本語",
     "started_at": "2026-03-14",
-    "finished_at": "2026-04-02",
     "tags": [
       "Japanese Literature"
     ],
@@ -1389,10 +1592,12 @@
     "authors": [
       "成田良悟"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
+    "finished_at": "2026-04-12",
     "language": "日本語",
     "started_at": "2026-04-03",
-    "finished_at": "2026-04-12",
     "tags": [
       "Japanese Literature"
     ],
@@ -1402,10 +1607,12 @@
     "authors": [
       "成田良悟"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
+    "finished_at": "2026-04-24",
     "language": "日本語",
     "started_at": "2026-04-13",
-    "finished_at": "2026-04-24",
     "tags": [
       "Japanese Literature"
     ],
@@ -1415,10 +1622,12 @@
     "authors": [
       "成田良悟"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
+    "finished_at": "2026-05-05",
     "language": "日本語",
     "started_at": "2026-04-25",
-    "finished_at": "2026-05-05",
     "tags": [
       "Japanese Literature"
     ],
@@ -1428,30 +1637,36 @@
     "authors": [
       "David Piling"
     ],
+    "cat1": "Social Science",
+    "cat2": "Sociology",
     "fiction": false,
     "language": "English",
     "started_at": "2026-05-10",
+    "subtitle": "Wealth, Poverty, and the Well-Being of Nations",
     "tags": [
       "Economics"
     ],
-    "title": "The Growth Delusion",
-    "subtitle": "Wealth, Poverty, and the Well-Being of Nations"
+    "title": "The Growth Delusion"
   },
   {
     "authors": [
       "TODO"
     ],
-    "title": "Axiomatic Set Theory",
+    "cat1": "Formal Science",
+    "cat2": "Other",
     "finished_at": "2020-01-17",
     "language": "English",
     "tags": [
       "Mathematics"
-    ]
+    ],
+    "title": "Axiomatic Set Theory"
   },
   {
     "authors": [
       "Steve Krug"
     ],
+    "cat1": "Humanities",
+    "cat2": "Visual Arts",
     "fiction": false,
     "finished_at": "2022-09-30",
     "language": "English",
@@ -1464,6 +1679,8 @@
     "authors": [
       "Alexandre Dumas"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
     "finished_at": "2022-09-30",
     "language": "English",
@@ -1474,11 +1691,13 @@
     "authors": [
       "野崎 博路"
     ],
+    "cat1": "Applied Science",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2022-10-31",
     "language": "日本語",
     "tags": [
-      "Cars"
+      "Misc"
     ],
     "title": "自動車の仕組み"
   },
@@ -1486,6 +1705,8 @@
     "authors": [
       "George Polya"
     ],
+    "cat1": "Formal Science",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2022-10-31",
     "language": "English",
@@ -1498,6 +1719,8 @@
     "authors": [
       "雫井 侑介"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
     "finished_at": "2022-10-31",
     "language": "日本語",
@@ -1510,6 +1733,8 @@
     "authors": [
       "夏目 漱石"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
     "finished_at": "2022-10-31",
     "language": "日本語",
@@ -1522,6 +1747,8 @@
     "authors": [
       "Aldous Huxley"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
     "finished_at": "2022-10-31",
     "language": "English",
@@ -1529,6 +1756,8 @@
     "title": "Brave New World"
   },
   {
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2022-11-30",
     "language": "日本語",
@@ -1542,6 +1771,8 @@
       "David Farley",
       "Jez Humble"
     ],
+    "cat1": "Applied Science",
+    "cat2": "Software Engineering",
     "fiction": false,
     "finished_at": "2022-11-30",
     "language": "English",
@@ -1556,6 +1787,8 @@
     "authors": [
       "H.P. Lovecraft"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
     "finished_at": "2022-11-30",
     "language": "English",
@@ -1566,6 +1799,8 @@
     "authors": [
       "Neil Gaiman"
     ],
+    "cat1": "Humanities",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2022-11-30",
     "language": "English",
@@ -1578,6 +1813,8 @@
     "authors": [
       "大西 知生"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2022-11-30",
     "language": "日本語",
@@ -1590,6 +1827,8 @@
     "authors": [
       "田中 圭一"
     ],
+    "cat1": "Fiction",
+    "cat2": "Other",
     "fiction": true,
     "finished_at": "2022-12-31",
     "language": "日本語",
@@ -1599,6 +1838,8 @@
     "title": "うつヌケ"
   },
   {
+    "cat1": "Humanities",
+    "cat2": "Visual Arts",
     "fiction": false,
     "finished_at": "2022-12-31",
     "language": "日本語",
@@ -1611,6 +1852,8 @@
     "authors": [
       "松本 茜"
     ],
+    "cat1": "Humanities",
+    "cat2": "Visual Arts",
     "fiction": false,
     "finished_at": "2022-12-31",
     "language": "日本語",
@@ -1623,6 +1866,8 @@
     "authors": [
       "高橋 伸哉"
     ],
+    "cat1": "Humanities",
+    "cat2": "Visual Arts",
     "fiction": false,
     "finished_at": "2022-12-31",
     "language": "日本語",
@@ -1632,6 +1877,8 @@
     "title": "写真からドラマを生み出すにはどう撮るか？"
   },
   {
+    "cat1": "Humanities",
+    "cat2": "Visual Arts",
     "fiction": false,
     "finished_at": "2022-12-31",
     "language": "日本語",
@@ -1641,6 +1888,8 @@
     "title": "美しい風景写真のマイルール"
   },
   {
+    "cat1": "Humanities",
+    "cat2": "Visual Arts",
     "fiction": false,
     "finished_at": "2023-01-18",
     "language": "日本語",
@@ -1650,6 +1899,8 @@
     "title": "音響工学基礎"
   },
   {
+    "cat1": "Humanities",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2023-01-19",
     "language": "日本語",
@@ -1659,6 +1910,8 @@
     "title": "PAお役立ちハンドブック"
   },
   {
+    "cat1": "Humanities",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2023-01-20",
     "language": "日本語",
@@ -1671,11 +1924,13 @@
     "authors": [
       "F.P. Preparata"
     ],
+    "cat1": "Formal Science",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2023-01-21",
     "language": "日本語",
     "tags": [
-      "Computer Science"
+      "Misc"
     ],
     "title": "プレパラータ先生の超並列計算講義"
   },
@@ -1683,6 +1938,8 @@
     "authors": [
       "横山 光昭"
     ],
+    "cat1": "Social Science",
+    "cat2": "Business",
     "fiction": false,
     "finished_at": "2023-01-22",
     "language": "日本語",
