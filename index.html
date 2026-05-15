@@ -68,6 +68,10 @@
                                         <v-chip v-for="v in cat2Values" class="selectable" :value="v" selected-class="selected">{{ v }}</v-chip>
                                     </v-chip-group>
                                 </div>
+                                <div>
+                                    <label>Fiction</label>
+                                    <v-checkbox v-model="selectedFiction"></v-checkbox>
+                                </div>
                                 <v-chip-group v-model="selectedLanguages" filter multiple column>
                                     <v-chip v-for="language in theLanguages" class="selectable chip-language" :value="language" selected-class="selected">{{ language }}</v-chip>
                                 </v-chip-group>
@@ -128,6 +132,7 @@
                     query: '',
                     selectedTags: [],
                     selectedLanguages: [],
+                    selectedFiction: false,
                     selectedCat1: undefined,
                     selectedCat2: undefined
                 };

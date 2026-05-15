@@ -7,43 +7,118 @@ const getNodesByField = (data, f) => {
     });
 };
 
+const nodeSortByCountRev = (a, b) => b.count - a.count;
+
+const buildGraphFiction = (data, rootNode) => {
+    let nodes = [...new Set(data.filter(book => book.fiction && book.cat1 !== "Other").map(book => book.cat1))].map(value => {
+        return {
+            name: value,
+            count: data.filter(book => book.cat1 === value).length
+        }
+    }).toSorted(nodeSortByCountRev);
+
+    let links = nodes.map(node => {
+        return {
+            source: rootNode,
+            target: node.name,
+            value: node.count
+        }
+    });
+
+    console.log(nodes);
+
+    return {
+        nodes: [
+            ...nodes,
+        ],
+        links: [
+            ...links,
+        ]
+    };
+}
+
+const buildGraphCat1 = (data, rootNode) => {
+    let nodes = [...new Set(data.filter(book => book.cat1 === rootNode && book.cat2 !== "Other").map(book => book.cat2))].map(value => {
+        return {
+            name: value,
+            count: data.filter(book => book.cat2 === value).length
+        }
+    }).toSorted(nodeSortByCountRev);
+
+    let links = nodes.map(node => {
+        return {
+            source: rootNode,
+            target: node.name,
+            value: node.count
+        }
+    });
+
+    return { nodes: nodes.toSorted(nodeSortByCountRev), links };
+}
+
+const buildGraphNonFiction = (data, rootNode) => {
+    let nodes = [...new Set(data.filter(book => !book.fiction && book.cat1 !== "Other").map(book => book.cat1))].map(value => {
+        return {
+            name: value,
+            count: data.filter(book => book.cat1 === value).length
+        }
+    }).toSorted(nodeSortByCountRev);
+
+    let links = nodes.map(node => {
+        return {
+            source: rootNode,
+            target: node.name,
+            value: node.count
+        }
+    });
+
+    let subGraphs = nodes.flatMap(node => buildGraphCat1(data, node.name));
+
+    return {
+        nodes: [
+            ...nodes,
+            ...subGraphs.flatMap(g => g.nodes)
+        ],
+        links: [
+            ...links,
+            ...subGraphs.flatMap(g => g.links)
+        ]
+    };
+}
+
 const buildGraph = (data) => {
-    let node_root = {
+    let rootNode = {
         name: 'Total',
         count: data.length
     };
-    let nodes_cat1 = getNodesByField(data, 'cat1');
-    let nodes_cat2 = getNodesByField(data, 'cat2').filter(node => node.name !== 'Other');
 
-    let links_root_to_cat1 = nodes_cat1.map(cat1 => {
-        return {
-            source: node_root.name,
-            target: cat1.name,
-            value: cat1.count
-        };
-    });
+    let nodesFiction = [
+        { name: 'Non-fiction', count: data.filter(book => !book.fiction).length },
+        { name: 'Fiction', count: data.filter(book => book.fiction).length },
+    ];
 
-    let links_cat1_to_cat2 = nodes_cat1.flatMap(node_cat1 => {
-        return nodes_cat2.map(node_cat2 => {
-            let value = data.filter(book => {
-                return (book.cat1 == node_cat1.name)
-                    && (book.cat2 == node_cat2.name);
-            }).length;
-            return {
-                source: node_cat1.name,
-                target: node_cat2.name,
-                value
-            }
-        }).filter(link => link.value > 0);
-    });
+    let graphFiction = buildGraphFiction(data, 'Fiction');
+    let graphNonFiction = buildGraphNonFiction(data, 'Non-fiction');
 
     return {
-        nodes: [node_root, ...nodes_cat1.toSorted((a, b) => b.count - a.count), ...nodes_cat2.toSorted((a, b) => b.count - a.count)],
+        nodes: [
+            rootNode,
+            ...nodesFiction,
+            ...graphNonFiction.nodes,
+            ...graphFiction.nodes,
+        ],
         links: [
-            ...links_root_to_cat1,
-            ...links_cat1_to_cat2
+            ...graphNonFiction.links,
+            ...graphFiction.links,
+            ...nodesFiction.map(n => {
+                return {
+                    source: rootNode.name,
+                    target: n.name,
+                    value: n.count
+                }
+            })
         ]
-    };
+    }
 };
 
 const buildSankey = (parent, data) => {
@@ -52,7 +127,7 @@ const buildSankey = (parent, data) => {
     // set the dimensions and margins of the graph
     var margin = { top: 10, right: 10, bottom: 10, left: 10 };
     var width = 1000 - margin.left - margin.right;
-    var height = 400 - margin.top - margin.bottom;
+    var height = 500 - margin.top - margin.bottom;
 
     // append the svg object to the body of the page
     var svg = d3.select(parent).append("svg")
@@ -68,14 +143,14 @@ const buildSankey = (parent, data) => {
         .nodeId(d => d.name)
         .nodeAlign(d3.sankeyLeft) // d3.sankeyLeft, etc.
         .nodeWidth(15)
-        .nodePadding(10)
+        .nodeSort(null)
+        .nodePadding(20)
         .extent([[1, 5], [width - 1, height - 5]]);
 
     const {nodes, links} = sankey({
         nodes: data.nodes.map(d => Object.assign({}, d)),
         links: data.links.map(d => Object.assign({}, d))
     });
-    console.log(nodes);
 
     // add in the nodes
     var node = svg.append("g")
@@ -83,7 +158,7 @@ const buildSankey = (parent, data) => {
         .data(nodes)
         .enter().append("g")
         .attr("class", "node")
-        .attr("transform", function (d) { console.log(d); return "translate(" + d.x0 + "," + d.y0 + ")"; })
+        .attr("transform", function (d) { return "translate(" + d.x0 + "," + d.y0 + ")"; })
         .call(d3.drag()
             .subject(function (d) { return d; })
             .on("start", function () { this.parentNode.appendChild(this); }));

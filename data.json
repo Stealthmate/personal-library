@@ -140,7 +140,7 @@
     "authors": [
       "柳田國男"
     ],
-    "cat1": "Fiction",
+    "cat1": "Other",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2023-07-14 00:00:00",
@@ -424,7 +424,7 @@
     "authors": [
       "星野富弘"
     ],
-    "cat1": "Fiction",
+    "cat1": "Other",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2023-10-21 00:00:00",
@@ -488,7 +488,7 @@
       "Kevin Behr",
       "George Spafford"
     ],
-    "cat1": "Fiction",
+    "cat1": "Other",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2023-11-10",
@@ -519,7 +519,7 @@
     "authors": [
       "Pablo Coehlo"
     ],
-    "cat1": "Fiction",
+    "cat1": "Other",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2023-11-28",
@@ -556,7 +556,7 @@
     "authors": [
       "成田良悟"
     ],
-    "cat1": "Fiction",
+    "cat1": "デュラララ!!",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2024-01-15",
@@ -571,7 +571,7 @@
     "authors": [
       "成田良悟"
     ],
-    "cat1": "Fiction",
+    "cat1": "デュラララ!!",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2024-02-04",
@@ -601,7 +601,7 @@
     "authors": [
       "成田良悟"
     ],
-    "cat1": "Fiction",
+    "cat1": "デュラララ!!",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2024-06-23",
@@ -651,7 +651,7 @@
       "江崎貴裕"
     ],
     "cat1": "Social Science",
-    "cat2": "Other",
+    "cat2": "Sociology",
     "fiction": false,
     "finished_at": "2024-07-17",
     "language": "日本語",
@@ -919,8 +919,8 @@
     "authors": [
       "Niccolo Machiavelli"
     ],
-    "cat1": "Social Science",
-    "cat2": "Business",
+    "cat1": "Humanities",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2025-02-05",
     "language": "English",
@@ -981,7 +981,7 @@
     "title": "Egyptian Mythology"
   },
   {
-    "cat1": "Fiction",
+    "cat1": "Other",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2025-04-19",
@@ -1012,7 +1012,7 @@
     "authors": [
       "森 絵都"
     ],
-    "cat1": "Fiction",
+    "cat1": "Other",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2025-04-28",
@@ -1101,7 +1101,7 @@
     "authors": [
       "原田マハ"
     ],
-    "cat1": "Fiction",
+    "cat1": "Other",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2025-07-06",
@@ -1135,7 +1135,7 @@
     "authors": [
       "山田洋次"
     ],
-    "cat1": "Fiction",
+    "cat1": "Other",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2025-07-15",
@@ -1184,7 +1184,7 @@
     "authors": [
       "池波正太郎"
     ],
-    "cat1": "Fiction",
+    "cat1": "Other",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2025-09-23",
@@ -1313,7 +1313,7 @@
     "authors": [
       "Steven Erikson"
     ],
-    "cat1": "Fiction",
+    "cat1": "Other",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2025-12-27",
@@ -1343,7 +1343,7 @@
     "authors": [
       "成田良悟"
     ],
-    "cat1": "Fiction",
+    "cat1": "デュラララ!!",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2026-01-09",
@@ -1373,7 +1373,7 @@
     "authors": [
       "成田良悟"
     ],
-    "cat1": "Fiction",
+    "cat1": "デュラララ!!",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2026-01-18",
@@ -1404,7 +1404,7 @@
     "authors": [
       "成田良悟"
     ],
-    "cat1": "Fiction",
+    "cat1": "デュラララ!!",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2026-02-26",
@@ -1532,7 +1532,7 @@
     "authors": [
       "成田良悟"
     ],
-    "cat1": "Fiction",
+    "cat1": "デュラララ!!",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2026-03-11",
@@ -1547,7 +1547,7 @@
     "authors": [
       "成田良悟"
     ],
-    "cat1": "Fiction",
+    "cat1": "デュラララ!!",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2026-03-23",
@@ -1577,7 +1577,7 @@
     "authors": [
       "成田良悟"
     ],
-    "cat1": "Fiction",
+    "cat1": "デュラララ!!",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2026-04-02",
@@ -1592,7 +1592,7 @@
     "authors": [
       "成田良悟"
     ],
-    "cat1": "Fiction",
+    "cat1": "デュラララ!!",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2026-04-12",
@@ -1607,7 +1607,7 @@
     "authors": [
       "成田良悟"
     ],
-    "cat1": "Fiction",
+    "cat1": "デュラララ!!",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2026-04-24",
@@ -1622,7 +1622,7 @@
     "authors": [
       "成田良悟"
     ],
-    "cat1": "Fiction",
+    "cat1": "デュラララ!!",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2026-05-05",
@@ -1679,7 +1679,7 @@
     "authors": [
       "Alexandre Dumas"
     ],
-    "cat1": "Fiction",
+    "cat1": "Other",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2022-09-30",
@@ -1719,7 +1719,7 @@
     "authors": [
       "雫井 侑介"
     ],
-    "cat1": "Fiction",
+    "cat1": "Other",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2022-10-31",
@@ -1733,7 +1733,7 @@
     "authors": [
       "夏目 漱石"
     ],
-    "cat1": "Fiction",
+    "cat1": "Other",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2022-10-31",
@@ -1747,7 +1747,7 @@
     "authors": [
       "Aldous Huxley"
     ],
-    "cat1": "Fiction",
+    "cat1": "Other",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2022-10-31",
@@ -1787,7 +1787,7 @@
     "authors": [
       "H.P. Lovecraft"
     ],
-    "cat1": "Fiction",
+    "cat1": "Other",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2022-11-30",
@@ -1827,7 +1827,7 @@
     "authors": [
       "田中 圭一"
     ],
-    "cat1": "Fiction",
+    "cat1": "Other",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2022-12-31",
