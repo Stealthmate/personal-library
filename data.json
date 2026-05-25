@@ -639,7 +639,7 @@
       "長田幸康"
     ],
     "cat1": "Humanities",
-    "cat2": "Other",
+    "cat2": "Religion",
     "fiction": false,
     "finished_at": "2024-07-10",
     "language": "日本語",
@@ -969,7 +969,7 @@
       "Geraldine Pinch"
     ],
     "cat1": "Humanities",
-    "cat2": "Other",
+    "cat2": "Religion",
     "fiction": false,
     "finished_at": "2025-03-17",
     "language": "English",
@@ -1184,7 +1184,7 @@
     "authors": [
       "池波正太郎"
     ],
-    "cat1": "Other",
+    "cat1": "剣客商売",
     "cat2": "Other",
     "fiction": true,
     "finished_at": "2025-09-23",
@@ -1642,11 +1642,53 @@
     "fiction": false,
     "language": "English",
     "started_at": "2026-05-10",
+    "finished_at": "2026-05-17",
     "subtitle": "Wealth, Poverty, and the Well-Being of Nations",
     "tags": [
       "Economics"
     ],
     "title": "The Growth Delusion"
+  },
+  {
+    "authors": [
+      "成田良悟"
+    ],
+    "cat1": "デュラララ!!",
+    "cat2": "Other",
+    "fiction": true,
+    "finished_at": "2026-05-16",
+    "language": "日本語",
+    "started_at": "2026-05-06",
+    "tags": [
+      "Japanese Literature"
+    ],
+    "title": "デュラララ 13"
+  },
+  {
+    "authors": [
+      "Robert Wright"
+    ],
+    "cat1": "Social Science",
+    "cat2": "Psychology",
+    "fiction": false,
+    "language": "English",
+    "started_at": "2026-05-15",
+    "subtitle": "Why We Are the Way We Are",
+    "tags": [],
+    "title": "The Moral Animal"
+  },
+  {
+    "authors": [
+      "Niall Ferguson"
+    ],
+    "cat1": "Social Science",
+    "cat2": "Other",
+    "fiction": false,
+    "language": "English",
+    "started_at": "2026-05-15",
+    "subtitle": "A Financial History of the World",
+    "tags": [],
+    "title": "The Ascent of Money"
   },
   {
     "authors": [
@@ -1800,7 +1842,7 @@
       "Neil Gaiman"
     ],
     "cat1": "Humanities",
-    "cat2": "Other",
+    "cat2": "Religion",
     "fiction": false,
     "finished_at": "2022-11-30",
     "language": "English",
