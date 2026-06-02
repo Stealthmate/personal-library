@@ -3,6 +3,306 @@
     "authors": [
       "TODO"
     ],
+    "cat1": "Formal Science",
+    "cat2": "Other",
+    "finished_at": "2020-01-17",
+    "language": "English",
+    "tags": [
+      "Mathematics"
+    ],
+    "title": "Axiomatic Set Theory"
+  },
+  {
+    "authors": [
+      "Steve Krug"
+    ],
+    "cat1": "Humanities",
+    "cat2": "Visual Arts",
+    "fiction": false,
+    "finished_at": "2022-09-30",
+    "language": "English",
+    "tags": [
+      "Design"
+    ],
+    "title": "Don't Make Me Think"
+  },
+  {
+    "authors": [
+      "Alexandre Dumas"
+    ],
+    "cat1": "Other",
+    "cat2": "Other",
+    "fiction": true,
+    "finished_at": "2022-09-30",
+    "language": "English",
+    "tags": [],
+    "title": "The Count of Monte Cristo"
+  },
+  {
+    "authors": [
+      "野崎 博路"
+    ],
+    "cat1": "Applied Science",
+    "cat2": "Other",
+    "fiction": false,
+    "finished_at": "2022-10-31",
+    "language": "日本語",
+    "tags": [
+      "Misc"
+    ],
+    "title": "自動車の仕組み"
+  },
+  {
+    "authors": [
+      "George Polya"
+    ],
+    "cat1": "Formal Science",
+    "cat2": "Other",
+    "fiction": false,
+    "finished_at": "2022-10-31",
+    "language": "English",
+    "tags": [
+      "Mathematics"
+    ],
+    "title": "How to solve it"
+  },
+  {
+    "authors": [
+      "雫井 侑介"
+    ],
+    "cat1": "Other",
+    "cat2": "Other",
+    "fiction": true,
+    "finished_at": "2022-10-31",
+    "language": "日本語",
+    "tags": [
+      "Japanese Literature"
+    ],
+    "title": "望み"
+  },
+  {
+    "authors": [
+      "夏目 漱石"
+    ],
+    "cat1": "Other",
+    "cat2": "Other",
+    "fiction": true,
+    "finished_at": "2022-10-31",
+    "language": "日本語",
+    "tags": [
+      "Japanese Literature"
+    ],
+    "title": "こころ"
+  },
+  {
+    "authors": [
+      "Aldous Huxley"
+    ],
+    "cat1": "Other",
+    "cat2": "Other",
+    "fiction": true,
+    "finished_at": "2022-10-31",
+    "language": "English",
+    "tags": [],
+    "title": "Brave New World"
+  },
+  {
+    "cat1": "Social Science",
+    "cat2": "Business",
+    "fiction": false,
+    "finished_at": "2022-11-30",
+    "language": "日本語",
+    "tags": [
+      "Finance"
+    ],
+    "title": "税の仕組みとルール"
+  },
+  {
+    "authors": [
+      "David Farley",
+      "Jez Humble"
+    ],
+    "cat1": "Applied Science",
+    "cat2": "Software Engineering",
+    "fiction": false,
+    "finished_at": "2022-11-30",
+    "language": "English",
+    "review": "Basically the \"what\", \"why\" and \"how\" of continuous integration (CI) and delivery (CD). Goes into great detail to explain why having a good CI/CD system is good and what benefits it gives with respect to software stability, e.g. number of bugs.\n",
+    "subtitle": "Reliable Software Releases through Build, Test, and Deployment Automation",
+    "tags": [
+      "DevOps"
+    ],
+    "title": "Continuous Delivery"
+  },
+  {
+    "authors": [
+      "H.P. Lovecraft"
+    ],
+    "cat1": "Other",
+    "cat2": "Other",
+    "fiction": true,
+    "finished_at": "2022-11-30",
+    "language": "English",
+    "tags": [],
+    "title": "Great Tales of Horror"
+  },
+  {
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "cat1": "Humanities",
+    "cat2": "Religion",
+    "fiction": false,
+    "finished_at": "2022-11-30",
+    "language": "English",
+    "tags": [
+      "Mythology"
+    ],
+    "title": "Norse Mythology"
+  },
+  {
+    "authors": [
+      "大西 知生"
+    ],
+    "cat1": "Social Science",
+    "cat2": "Business",
+    "fiction": false,
+    "finished_at": "2022-11-30",
+    "language": "日本語",
+    "tags": [
+      "Finance"
+    ],
+    "title": "FX取引の王道"
+  },
+  {
+    "authors": [
+      "田中 圭一"
+    ],
+    "cat1": "Other",
+    "cat2": "Other",
+    "fiction": true,
+    "finished_at": "2022-12-31",
+    "language": "日本語",
+    "tags": [
+      "Manga"
+    ],
+    "title": "うつヌケ"
+  },
+  {
+    "cat1": "Humanities",
+    "cat2": "Visual Arts",
+    "fiction": false,
+    "finished_at": "2022-12-31",
+    "language": "日本語",
+    "tags": [
+      "Photography"
+    ],
+    "title": "写真がもっと上手くなるポートレートテクニック辞典"
+  },
+  {
+    "authors": [
+      "松本 茜"
+    ],
+    "cat1": "Humanities",
+    "cat2": "Visual Arts",
+    "fiction": false,
+    "finished_at": "2022-12-31",
+    "language": "日本語",
+    "tags": [
+      "Photography"
+    ],
+    "title": "カメラのきほん練習帳"
+  },
+  {
+    "authors": [
+      "高橋 伸哉"
+    ],
+    "cat1": "Humanities",
+    "cat2": "Visual Arts",
+    "fiction": false,
+    "finished_at": "2022-12-31",
+    "language": "日本語",
+    "tags": [
+      "Photography"
+    ],
+    "title": "写真からドラマを生み出すにはどう撮るか？"
+  },
+  {
+    "cat1": "Humanities",
+    "cat2": "Visual Arts",
+    "fiction": false,
+    "finished_at": "2022-12-31",
+    "language": "日本語",
+    "tags": [
+      "Photography"
+    ],
+    "title": "美しい風景写真のマイルール"
+  },
+  {
+    "cat1": "Humanities",
+    "cat2": "Visual Arts",
+    "fiction": false,
+    "finished_at": "2023-01-18",
+    "language": "日本語",
+    "tags": [
+      "Photography"
+    ],
+    "title": "音響工学基礎"
+  },
+  {
+    "cat1": "Humanities",
+    "cat2": "Other",
+    "fiction": false,
+    "finished_at": "2023-01-19",
+    "language": "日本語",
+    "tags": [
+      "Sound Design"
+    ],
+    "title": "PAお役立ちハンドブック"
+  },
+  {
+    "cat1": "Humanities",
+    "cat2": "Other",
+    "fiction": false,
+    "finished_at": "2023-01-20",
+    "language": "日本語",
+    "tags": [
+      "Sound Design"
+    ],
+    "title": "PA入門"
+  },
+  {
+    "authors": [
+      "F.P. Preparata"
+    ],
+    "cat1": "Formal Science",
+    "cat2": "Other",
+    "fiction": false,
+    "finished_at": "2023-01-21",
+    "language": "日本語",
+    "tags": [
+      "Misc"
+    ],
+    "title": "プレパラータ先生の超並列計算講義"
+  },
+  {
+    "authors": [
+      "横山 光昭"
+    ],
+    "cat1": "Social Science",
+    "cat2": "Business",
+    "fiction": false,
+    "finished_at": "2023-01-22",
+    "language": "日本語",
+    "tags": [
+      "Finance"
+    ],
+    "title": "3000円投資生活"
+  },
+  {
+    "authors": [
+      "TODO"
+    ],
     "cat1": "Humanities",
     "cat2": "Visual Arts",
     "fiction": false,
@@ -81,18 +381,6 @@
     "title": "Team Topologies"
   },
   {
-    "cat1": "Social Science",
-    "cat2": "Business",
-    "fiction": false,
-    "finished_at": "2023-06-19",
-    "language": "日本語",
-    "started_at": "2023-04-09",
-    "tags": [
-      "Management"
-    ],
-    "title": "ポーズ・光・色」が最高の表情を作り出す ポートレート写真術"
-  },
-  {
     "authors": [
       "TODO"
     ],
@@ -105,6 +393,18 @@
       "Software Development"
     ],
     "title": "ゼロから作る Deep Learning"
+  },
+  {
+    "cat1": "Social Science",
+    "cat2": "Business",
+    "fiction": false,
+    "finished_at": "2023-06-19",
+    "language": "日本語",
+    "started_at": "2023-04-09",
+    "tags": [
+      "Management"
+    ],
+    "title": "ポーズ・光・色」が最高の表情を作り出す ポートレート写真術"
   },
   {
     "authors": [
@@ -1402,21 +1702,6 @@
   },
   {
     "authors": [
-      "成田良悟"
-    ],
-    "cat1": "デュラララ!!",
-    "cat2": "Other",
-    "fiction": true,
-    "finished_at": "2026-02-26",
-    "language": "日本語",
-    "started_at": "2026-01-18",
-    "tags": [
-      "Japanese Literature"
-    ],
-    "title": "デュラララ 6"
-  },
-  {
-    "authors": [
       "Marcus Aurelius"
     ],
     "cat1": "Humanities",
@@ -1429,23 +1714,6 @@
       "Misc"
     ],
     "title": "Meditations"
-  },
-  {
-    "authors": [
-      "半藤一利"
-    ],
-    "cat1": "Social Science",
-    "cat2": "Business",
-    "fiction": false,
-    "finished_at": "2026-02-21",
-    "language": "日本語",
-    "started_at": "2026-01-28",
-    "tags": [
-      "Leadership",
-      "History",
-      "Japanese History"
-    ],
-    "title": "日本型リーダーはなぜ失敗するのか"
   },
   {
     "authors": [
@@ -1482,6 +1750,23 @@
   },
   {
     "authors": [
+      "半藤一利"
+    ],
+    "cat1": "Social Science",
+    "cat2": "Business",
+    "fiction": false,
+    "finished_at": "2026-02-21",
+    "language": "日本語",
+    "started_at": "2026-01-28",
+    "tags": [
+      "Leadership",
+      "History",
+      "Japanese History"
+    ],
+    "title": "日本型リーダーはなぜ失敗するのか"
+  },
+  {
+    "authors": [
       "Daniel H. Pink"
     ],
     "cat1": "Social Science",
@@ -1499,34 +1784,18 @@
   },
   {
     "authors": [
-      "堀江貴文"
+      "成田良悟"
     ],
-    "cat1": "Other",
+    "cat1": "デュラララ!!",
     "cat2": "Other",
-    "fiction": false,
+    "fiction": true,
+    "finished_at": "2026-02-26",
     "language": "日本語",
-    "started_at": "2026-02-21",
+    "started_at": "2026-01-18",
     "tags": [
-      "Misc"
+      "Japanese Literature"
     ],
-    "title": "稼ぐが勝ち"
-  },
-  {
-    "authors": [
-      "Jonathan Haidt"
-    ],
-    "cat1": "Social Science",
-    "cat2": "Sociology",
-    "fiction": false,
-    "finished_at": "2026-05-11",
-    "language": "English",
-    "started_at": "2026-03-01",
-    "subtitle": "Why Good People Are Divided by Politics and Religion",
-    "tags": [
-      "Sociology",
-      "Psychology"
-    ],
-    "title": "The Righteous Mind"
+    "title": "デュラララ 6"
   },
   {
     "authors": [
@@ -1545,21 +1814,6 @@
   },
   {
     "authors": [
-      "成田良悟"
-    ],
-    "cat1": "デュラララ!!",
-    "cat2": "Other",
-    "fiction": true,
-    "finished_at": "2026-03-23",
-    "language": "日本語",
-    "started_at": "2026-03-13",
-    "tags": [
-      "Japanese Literature"
-    ],
-    "title": "デュラララ 8"
-  },
-  {
-    "authors": [
       "藤井猛"
     ],
     "cat1": "Other",
@@ -1572,6 +1826,21 @@
       "Misc"
     ],
     "title": "藤井猛の攻めの基本戦略"
+  },
+  {
+    "authors": [
+      "成田良悟"
+    ],
+    "cat1": "デュラララ!!",
+    "cat2": "Other",
+    "fiction": true,
+    "finished_at": "2026-03-23",
+    "language": "日本語",
+    "started_at": "2026-03-13",
+    "tags": [
+      "Japanese Literature"
+    ],
+    "title": "デュラララ 8"
   },
   {
     "authors": [
@@ -1635,19 +1904,20 @@
   },
   {
     "authors": [
-      "David Piling"
+      "Jonathan Haidt"
     ],
     "cat1": "Social Science",
     "cat2": "Sociology",
     "fiction": false,
+    "finished_at": "2026-05-11",
     "language": "English",
-    "started_at": "2026-05-10",
-    "finished_at": "2026-05-17",
-    "subtitle": "Wealth, Poverty, and the Well-Being of Nations",
+    "started_at": "2026-03-01",
+    "subtitle": "Why Good People Are Divided by Politics and Religion",
     "tags": [
-      "Economics"
+      "Sociology",
+      "Psychology"
     ],
-    "title": "The Growth Delusion"
+    "title": "The Righteous Mind"
   },
   {
     "authors": [
@@ -1666,16 +1936,19 @@
   },
   {
     "authors": [
-      "Robert Wright"
+      "David Piling"
     ],
     "cat1": "Social Science",
-    "cat2": "Psychology",
+    "cat2": "Sociology",
     "fiction": false,
     "language": "English",
-    "started_at": "2026-05-15",
-    "subtitle": "Why We Are the Way We Are",
-    "tags": [],
-    "title": "The Moral Animal"
+    "started_at": "2026-05-10",
+    "finished_at": "2026-05-17",
+    "subtitle": "Wealth, Poverty, and the Well-Being of Nations",
+    "tags": [
+      "Economics"
+    ],
+    "title": "The Growth Delusion"
   },
   {
     "authors": [
@@ -1686,308 +1959,23 @@
     "fiction": false,
     "language": "English",
     "started_at": "2026-05-15",
+    "finished_at": "2026-05-26",
     "subtitle": "A Financial History of the World",
     "tags": [],
     "title": "The Ascent of Money"
   },
   {
     "authors": [
-      "TODO"
-    ],
-    "cat1": "Formal Science",
-    "cat2": "Other",
-    "finished_at": "2020-01-17",
-    "language": "English",
-    "tags": [
-      "Mathematics"
-    ],
-    "title": "Axiomatic Set Theory"
-  },
-  {
-    "authors": [
-      "Steve Krug"
-    ],
-    "cat1": "Humanities",
-    "cat2": "Visual Arts",
-    "fiction": false,
-    "finished_at": "2022-09-30",
-    "language": "English",
-    "tags": [
-      "Design"
-    ],
-    "title": "Don't Make Me Think"
-  },
-  {
-    "authors": [
-      "Alexandre Dumas"
-    ],
-    "cat1": "Other",
-    "cat2": "Other",
-    "fiction": true,
-    "finished_at": "2022-09-30",
-    "language": "English",
-    "tags": [],
-    "title": "The Count of Monte Cristo"
-  },
-  {
-    "authors": [
-      "野崎 博路"
-    ],
-    "cat1": "Applied Science",
-    "cat2": "Other",
-    "fiction": false,
-    "finished_at": "2022-10-31",
-    "language": "日本語",
-    "tags": [
-      "Misc"
-    ],
-    "title": "自動車の仕組み"
-  },
-  {
-    "authors": [
-      "George Polya"
-    ],
-    "cat1": "Formal Science",
-    "cat2": "Other",
-    "fiction": false,
-    "finished_at": "2022-10-31",
-    "language": "English",
-    "tags": [
-      "Mathematics"
-    ],
-    "title": "How to solve it"
-  },
-  {
-    "authors": [
-      "雫井 侑介"
-    ],
-    "cat1": "Other",
-    "cat2": "Other",
-    "fiction": true,
-    "finished_at": "2022-10-31",
-    "language": "日本語",
-    "tags": [
-      "Japanese Literature"
-    ],
-    "title": "望み"
-  },
-  {
-    "authors": [
-      "夏目 漱石"
-    ],
-    "cat1": "Other",
-    "cat2": "Other",
-    "fiction": true,
-    "finished_at": "2022-10-31",
-    "language": "日本語",
-    "tags": [
-      "Japanese Literature"
-    ],
-    "title": "こころ"
-  },
-  {
-    "authors": [
-      "Aldous Huxley"
-    ],
-    "cat1": "Other",
-    "cat2": "Other",
-    "fiction": true,
-    "finished_at": "2022-10-31",
-    "language": "English",
-    "tags": [],
-    "title": "Brave New World"
-  },
-  {
-    "cat1": "Social Science",
-    "cat2": "Business",
-    "fiction": false,
-    "finished_at": "2022-11-30",
-    "language": "日本語",
-    "tags": [
-      "Finance"
-    ],
-    "title": "税の仕組みとルール"
-  },
-  {
-    "authors": [
-      "David Farley",
-      "Jez Humble"
-    ],
-    "cat1": "Applied Science",
-    "cat2": "Software Engineering",
-    "fiction": false,
-    "finished_at": "2022-11-30",
-    "language": "English",
-    "review": "Basically the \"what\", \"why\" and \"how\" of continuous integration (CI) and delivery (CD). Goes into great detail to explain why having a good CI/CD system is good and what benefits it gives with respect to software stability, e.g. number of bugs.\n",
-    "subtitle": "Reliable Software Releases through Build, Test, and Deployment Automation",
-    "tags": [
-      "DevOps"
-    ],
-    "title": "Continuous Delivery"
-  },
-  {
-    "authors": [
-      "H.P. Lovecraft"
-    ],
-    "cat1": "Other",
-    "cat2": "Other",
-    "fiction": true,
-    "finished_at": "2022-11-30",
-    "language": "English",
-    "tags": [],
-    "title": "Great Tales of Horror"
-  },
-  {
-    "authors": [
-      "Neil Gaiman"
-    ],
-    "cat1": "Humanities",
-    "cat2": "Religion",
-    "fiction": false,
-    "finished_at": "2022-11-30",
-    "language": "English",
-    "tags": [
-      "Mythology"
-    ],
-    "title": "Norse Mythology"
-  },
-  {
-    "authors": [
-      "大西 知生"
+      "Robert Wright"
     ],
     "cat1": "Social Science",
-    "cat2": "Business",
+    "cat2": "Psychology",
     "fiction": false,
-    "finished_at": "2022-11-30",
-    "language": "日本語",
-    "tags": [
-      "Finance"
-    ],
-    "title": "FX取引の王道"
-  },
-  {
-    "authors": [
-      "田中 圭一"
-    ],
-    "cat1": "Other",
-    "cat2": "Other",
-    "fiction": true,
-    "finished_at": "2022-12-31",
-    "language": "日本語",
-    "tags": [
-      "Manga"
-    ],
-    "title": "うつヌケ"
-  },
-  {
-    "cat1": "Humanities",
-    "cat2": "Visual Arts",
-    "fiction": false,
-    "finished_at": "2022-12-31",
-    "language": "日本語",
-    "tags": [
-      "Photography"
-    ],
-    "title": "写真がもっと上手くなるポートレートテクニック辞典"
-  },
-  {
-    "authors": [
-      "松本 茜"
-    ],
-    "cat1": "Humanities",
-    "cat2": "Visual Arts",
-    "fiction": false,
-    "finished_at": "2022-12-31",
-    "language": "日本語",
-    "tags": [
-      "Photography"
-    ],
-    "title": "カメラのきほん練習帳"
-  },
-  {
-    "authors": [
-      "高橋 伸哉"
-    ],
-    "cat1": "Humanities",
-    "cat2": "Visual Arts",
-    "fiction": false,
-    "finished_at": "2022-12-31",
-    "language": "日本語",
-    "tags": [
-      "Photography"
-    ],
-    "title": "写真からドラマを生み出すにはどう撮るか？"
-  },
-  {
-    "cat1": "Humanities",
-    "cat2": "Visual Arts",
-    "fiction": false,
-    "finished_at": "2022-12-31",
-    "language": "日本語",
-    "tags": [
-      "Photography"
-    ],
-    "title": "美しい風景写真のマイルール"
-  },
-  {
-    "cat1": "Humanities",
-    "cat2": "Visual Arts",
-    "fiction": false,
-    "finished_at": "2023-01-18",
-    "language": "日本語",
-    "tags": [
-      "Photography"
-    ],
-    "title": "音響工学基礎"
-  },
-  {
-    "cat1": "Humanities",
-    "cat2": "Other",
-    "fiction": false,
-    "finished_at": "2023-01-19",
-    "language": "日本語",
-    "tags": [
-      "Sound Design"
-    ],
-    "title": "PAお役立ちハンドブック"
-  },
-  {
-    "cat1": "Humanities",
-    "cat2": "Other",
-    "fiction": false,
-    "finished_at": "2023-01-20",
-    "language": "日本語",
-    "tags": [
-      "Sound Design"
-    ],
-    "title": "PA入門"
-  },
-  {
-    "authors": [
-      "F.P. Preparata"
-    ],
-    "cat1": "Formal Science",
-    "cat2": "Other",
-    "fiction": false,
-    "finished_at": "2023-01-21",
-    "language": "日本語",
-    "tags": [
-      "Misc"
-    ],
-    "title": "プレパラータ先生の超並列計算講義"
-  },
-  {
-    "authors": [
-      "横山 光昭"
-    ],
-    "cat1": "Social Science",
-    "cat2": "Business",
-    "fiction": false,
-    "finished_at": "2023-01-22",
-    "language": "日本語",
-    "tags": [
-      "Finance"
-    ],
-    "title": "3000円投資生活"
+    "language": "English",
+    "started_at": "2026-05-15",
+    "finished_at": "2026-06-02",
+    "subtitle": "Why We Are the Way We Are",
+    "tags": [],
+    "title": "The Moral Animal"
   }
 ]
