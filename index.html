@@ -22,24 +22,24 @@
     <script src="https://unpkg.com/d3-sankey@0"></script>
 
     <style>
+        .v-chip[disabled].selectable {
+            color: #FFAAAA;
+        }
         .v-chip.selectable {
-            opacity: 0.5;
+            opacity: 0.7;
+            color: #0055AA;
         }
         .v-chip.selectable.selected {
             opacity: 1.0;
         }
-
-        .chip-language {
-            color: #00AA55;
-        }
         .link {
-  fill: none;
-  stroke: #000;
-  stroke-opacity: .2;
-}
-.link:hover {
-  stroke-opacity: .5;
-}
+            fill: none;
+            stroke: #000;
+            stroke-opacity: .2;
+        }
+        .link:hover {
+            stroke-opacity: .5;
+        }
     </style>
 </head>
 
@@ -55,28 +55,32 @@
                     <section>
                         <v-card flat>
                             <v-card-text class="d-flex flex-column">
-                                <v-text-field v-model="query" variant="underlined" placeholder="Search..." />
+                                <v-container fluid>
+                                    <v-row>
+                                        <v-checkbox v-model="selectedFiction" density="comfortable" label="Fiction" hide-details></v-checkbox>
+                                        <v-text-field class="ml-5" v-model="query" variant="underlined" placeholder="Search..." />
+                                    </v-row>
+                                </v-container>
                                 <div>
                                     <span>Field</span>
                                     <v-chip-group v-model="selectedCat1" filter column>
-                                        <v-chip v-for="v in cat1Values" class="selectable" :value="v" selected-class="selected">{{ v }}</v-chip>
+                                        <v-chip v-for="v in cat1Values" class="selectable" :value="v" selected-class="selected" :disabled="activeCat1Values.indexOf(v) === -1">{{ v }}</v-chip>
                                     </v-chip-group>
                                 </div>
                                 <div>
                                     <span>Sub-field</span>
                                     <v-chip-group v-model="selectedCat2" filter column>
-                                        <v-chip v-for="v in cat2Values" class="selectable" :value="v" selected-class="selected">{{ v }}</v-chip>
+                                        <v-chip v-for="v in cat2Values" class="selectable" :value="v" selected-class="selected" :disabled="activeCat2Values.indexOf(v) === -1">{{ v }}</v-chip>
                                     </v-chip-group>
                                 </div>
                                 <div>
-                                    <label>Fiction</label>
-                                    <v-checkbox v-model="selectedFiction"></v-checkbox>
+                                    <span>Tag</span>
+                                    <v-chip-group v-model="selectedTags" filter multiple column>
+                                        <v-chip v-for="v in tagValues" class="selectable" :value="v" selected-class="selected" :disabled="activeTagValues.indexOf(v) === -1">{{ v }}</v-chip>
+                                    </v-chip-group>
                                 </div>
                                 <v-chip-group v-model="selectedLanguages" filter multiple column>
                                     <v-chip v-for="language in theLanguages" class="selectable chip-language" :value="language" selected-class="selected">{{ language }}</v-chip>
-                                </v-chip-group>
-                                <v-chip-group v-model="selectedTags" filter multiple column>
-                                    <v-chip v-for="tag in theTags" class="selectable" :value="tag" selected-class="selected">{{ tag }}</v-chip>
                                 </v-chip-group>
                             </v-card-text>
                         </v-card>
@@ -129,69 +133,49 @@
                         };
                         return r;
                     }),
+                    selectedFiction: false,
                     query: '',
+                    selectedCat1: undefined,
+                    selectedCat2: undefined,
                     selectedTags: [],
                     selectedLanguages: [],
-                    selectedFiction: false,
-                    selectedCat1: undefined,
-                    selectedCat2: undefined
                 };
             },
             mounted() {
                 sankey.draw(this.$refs.sankey);
             },
             computed: {
-                theTags() {
+                cat1Values() {
+                    return [...new Set(this.resources.map(book => book.cat1))];
+                },
+                activeCat1Values() {
+                    return [...new Set(this.filterResources("cat1").map(book => book.cat1))];
+                },
+                cat2Values() {
+                    return [...new Set(this.resources.map(book => book.cat2))];
+                },
+                activeCat2Values() {
+                    return [...new Set(this.filterResources("cat2").map(book => book.cat2))];
+                },
+                tagValues() {
                     let tags = new Set();
                     this.resources.forEach(r => {
                         r.tags.forEach(t => tags.add(t));
                     });
                     return Array.from(tags);
                 },
-                cat1Values() {
-                    return [...new Set(this.resources.map(book => book.cat1))];
-                },
-                cat2Values() {
-                    return [...new Set(this.resources.filter(book => {
-                        if(this.selectedCat1 !== undefined) {
-                            return book.cat1 == this.selectedCat1;
-                        }
-                        return true;
-                    }).map(book => book.cat2))];
+                activeTagValues() {
+                    let tags = new Set();
+                    this.filterResources(undefined).forEach(r => {
+                        r.tags.forEach(t => tags.add(t));
+                    });
+                    return Array.from(tags);
                 },
                 theLanguages() {
                     return this.setOfValues('language');
                 },
                 filteredResources() {
-                    return this.resources.filter(
-                        book => {
-                            if(this.selectedCat1 !== undefined) {
-                                return book.cat1 == this.selectedCat1;
-                            }
-                            return true;
-                        }
-                    ).filter(
-                        book => {
-                            if(this.selectedCat2 !== undefined) {
-                                return book.cat2 == this.selectedCat2;
-                            }
-                            return true;
-                        }
-                    ).filter(
-                        r => {
-                            if(this.selectedLanguages.length === 0) return true;
-                            return this.selectedLanguages.includes(r.language);
-                        }
-                    ).filter(r => {
-                        return this.selectedTags.every(t => r.tags.includes(t));
-                    }).filter(r => {
-                        if (this.query === "") return true;
-                        let q = this.query.toLowerCase();
-                        return [
-                            r.title.toLowerCase().includes(q),
-                            r.subtitle.toLowerCase().includes(q)
-                        ].some(x => x);
-                    });
+                    return this.filterResources(undefined);
                 }
             },
             methods: {
@@ -203,6 +187,33 @@
                         }
                     });
                     return Array.from(values);
+                },
+                filterResources(exclude) {
+                    let results = this.resources;
+
+                    if(exclude !== "fiction" && this.selectedFiction) {
+                        results = results.filter(r => r.fiction);
+                    }
+                    if(exclude !== "query" && this.query !== '') {
+                        let q = this.query.toLowerCase();
+                        results = results.filter(r => {
+                            return [
+                                r.title.toLowerCase().includes(q),
+                                r.subtitle.toLowerCase().includes(q)
+                            ].some(x => x);
+                        });
+                    }
+                    if(exclude !== "cat1" && this.selectedCat1 !== undefined) {
+                        results = results.filter(r => r.cat1 === this.selectedCat1);
+                    }
+                    if(exclude !== "cat2" && this.selectedCat2 !== undefined) {
+                        results = results.filter(r => r.cat2 === this.selectedCat2);
+                    }
+                    if(exclude !== "tag" && this.selectedTags.length > 0) {
+                        results = results.filter(r => this.selectedTags.every(t => r.tags.indexOf(t) !== -1));
+                    }
+
+                    return results;
                 }
             }
         }).use(createVuetify()).mount('#app');
