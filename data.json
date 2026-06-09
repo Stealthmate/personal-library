@@ -107,14 +107,12 @@
     "title": "Brave New World"
   },
   {
-    "cat1": "Social Science",
-    "cat2": "Business",
+    "cat1": "Other",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2022-11-30",
     "language": "日本語",
-    "tags": [
-      "Finance"
-    ],
+    "tags": [],
     "title": "税の仕組みとルール"
   },
   {
@@ -164,14 +162,12 @@
     "authors": [
       "大西 知生"
     ],
-    "cat1": "Social Science",
-    "cat2": "Business",
+    "cat1": "Other",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2022-11-30",
     "language": "日本語",
-    "tags": [
-      "Finance"
-    ],
+    "tags": [],
     "title": "FX取引の王道"
   },
   {
@@ -289,14 +285,12 @@
     "authors": [
       "横山 光昭"
     ],
-    "cat1": "Social Science",
-    "cat2": "Business",
+    "cat1": "Other",
+    "cat2": "Other",
     "fiction": false,
     "finished_at": "2023-01-22",
     "language": "日本語",
-    "tags": [
-      "Finance"
-    ],
+    "tags": [],
     "title": "3000円投資生活"
   },
   {
@@ -376,7 +370,7 @@
     "started_at": "2023-06-10",
     "subtitle": "Organizing Business and Technology Teams for Fast Flow",
     "tags": [
-      "Management"
+      "People Management"
     ],
     "title": "Team Topologies"
   },
@@ -395,15 +389,13 @@
     "title": "ゼロから作る Deep Learning"
   },
   {
-    "cat1": "Social Science",
-    "cat2": "Business",
+    "cat1": "Humanities",
+    "cat2": "Visual Arts",
     "fiction": false,
     "finished_at": "2023-06-19",
     "language": "日本語",
     "started_at": "2023-04-09",
-    "tags": [
-      "Management"
-    ],
+    "tags": [],
     "title": "ポーズ・光・色」が最高の表情を作り出す ポートレート写真術"
   },
   {
@@ -443,7 +435,7 @@
     "cat1": "Other",
     "cat2": "Other",
     "fiction": true,
-    "finished_at": "2023-07-14 00:00:00",
+    "finished_at": "2023-07-14T00:00:00",
     "language": "日本語",
     "started_at": "2023-07-09",
     "tags": [
@@ -458,7 +450,7 @@
     "cat1": "Applied Science",
     "cat2": "Software Engineering",
     "fiction": false,
-    "finished_at": "2023-07-14 00:00:01",
+    "finished_at": "2023-07-14T00:00:01",
     "language": "English",
     "review": "On the surface, this is a textbook about the RADIUS protocol and the FreeRADIUS implementation. But it does such a good job of explaining the protocol, that reading it actually gives you insight about networking, authentication, authorization and security in general. If your job includes dealing with accounts, even if not related to networks per se, then I definitely recommend giving this a read.\n",
     "started_at": "2023-07-09",
@@ -535,11 +527,11 @@
     "cat1": "Social Science",
     "cat2": "Business",
     "fiction": false,
-    "finished_at": "2023-08-13 00:00:00",
+    "finished_at": "2023-08-13T00:00:00",
     "language": "日本語",
     "started_at": "2023-08-02",
     "tags": [
-      "Management"
+      "People Management"
     ],
     "title": "とにかく仕組み化"
   },
@@ -550,7 +542,7 @@
     "cat1": "Applied Science",
     "cat2": "Software Engineering",
     "fiction": false,
-    "finished_at": "2023-08-13 00:00:01",
+    "finished_at": "2023-08-13T00:00:01",
     "language": "English",
     "review": "A somewhat dogmatic approach to writing code that is, well, clean, but also readable, understandable and maintainable. From an experienced person's view, most concepts look obvious, yet it refreshes your mind to see them codified and backed by clear reasoning. On the other hand, a beginner will probably find a lot of insight reading this.\n",
     "started_at": "2023-07-27",
@@ -624,7 +616,7 @@
     "language": "日本語",
     "started_at": "2023-09-10",
     "tags": [
-      "Management"
+      "People Management"
     ],
     "title": "数値化の鬼"
   },
@@ -639,7 +631,8 @@
     "language": "日本語",
     "started_at": "2023-09-22",
     "tags": [
-      "Management"
+      "People Management",
+      "Leadership"
     ],
     "title": "リーダーの仮面"
   },
@@ -670,10 +663,7 @@
     "review": "Reading this in 2023 was interesting, since the book appears to be written at a time when the Internet was not really that much of a thing. That being said, the ideas inside are valuable regardless of the choice of technology - the book does a good job explaining why the concept of peer review in software is good. Then again, on the surface there are some points that could be considered \"old\" by today's standards - reviewing code printed on paper, having long and formal meetings where multiple people \"inspect\" the code, etc.\n",
     "started_at": "2023-09-29",
     "subtitle": "A Practical Guide",
-    "tags": [
-      "Software Development",
-      "Management"
-    ],
+    "tags": [],
     "title": "Peer Reviews in Software"
   },
   {
@@ -689,7 +679,7 @@
     "started_at": "2023-03-12",
     "subtitle": "Productive Projects and Teams",
     "tags": [
-      "Management"
+      "People Management"
     ],
     "title": "Peopleware"
   },
@@ -727,7 +717,7 @@
     "cat1": "Other",
     "cat2": "Other",
     "fiction": true,
-    "finished_at": "2023-10-21 00:00:00",
+    "finished_at": "2023-10-21T00:00:00",
     "language": "日本語",
     "started_at": "2023-10-21",
     "tags": [],
@@ -740,7 +730,7 @@
     "cat1": "Humanities",
     "cat2": "Visual Arts",
     "fiction": false,
-    "finished_at": "2023-10-21 00:00:01",
+    "finished_at": "2023-10-21T00:00:01",
     "language": "日本語",
     "started_at": "2023-10-21",
     "tags": [
@@ -848,7 +838,8 @@
     "language": "English",
     "started_at": "2023-12-06",
     "tags": [
-      "Management"
+      "Leadership",
+      "Strategy"
     ],
     "title": "Joy Inc"
   },
@@ -892,7 +883,7 @@
     "finished_at": "2024-05-08",
     "language": "English",
     "tags": [
-      "Management",
+      "People Management",
       "Leadership"
     ],
     "title": "Start with Why"
@@ -968,7 +959,7 @@
     "finished_at": "2024-07-21",
     "language": "English",
     "tags": [
-      "Management"
+      "People Management"
     ],
     "title": "High Output Management"
   },
@@ -982,7 +973,7 @@
     "finished_at": "2024-08-03",
     "language": "English",
     "tags": [
-      "Management"
+      "People Management"
     ],
     "title": "The Practice of Management"
   },
@@ -1023,8 +1014,7 @@
     "language": "日本語",
     "started_at": "2024-09-23",
     "tags": [
-      "History",
-      "Japanese History"
+      "History"
     ],
     "title": "日本史の教科書"
   },
@@ -1039,8 +1029,7 @@
     "language": "日本語",
     "started_at": "2024-10-11",
     "tags": [
-      "Accounting",
-      "Finance"
+      "Management Accounting"
     ],
     "title": "管理会計の基本"
   },
@@ -1055,7 +1044,7 @@
     "language": "日本語",
     "started_at": "2024-10-20",
     "tags": [
-      "Management"
+      "People Management"
     ],
     "title": "エンジニアリング組織論への招待"
   },
@@ -1070,8 +1059,7 @@
     "language": "English",
     "started_at": "2024-11-08",
     "tags": [
-      "Management",
-      "Communication"
+      "People Management"
     ],
     "title": "The Five Dysfunctions of a Team"
   },
@@ -1131,7 +1119,7 @@
     "started_at": "2024-11-18",
     "subtitle": "The Art of Doing Twice the Work in Half the Time",
     "tags": [
-      "Management"
+      "People Management"
     ],
     "title": "Scrum"
   },
@@ -1147,8 +1135,9 @@
     "started_at": "2024-12-02",
     "subtitle": "And What You Can Learn from Their Mistakes",
     "tags": [
-      "Management",
-      "Leadership"
+      "People Management",
+      "Leadership",
+      "Strategy"
     ],
     "title": "Why Smart Executives Fail"
   },
@@ -1163,7 +1152,7 @@
     "language": "日本語",
     "started_at": "2024-12-15",
     "tags": [
-      "Management"
+      "Strategy"
     ],
     "title": "世界は経営でできている"
   },
@@ -1178,7 +1167,7 @@
     "language": "日本語",
     "started_at": "2025-01-04",
     "tags": [
-      "Management"
+      "People Management"
     ],
     "title": "採用基準"
   },
@@ -1194,9 +1183,7 @@
     "started_at": "2025-01-16",
     "subtitle": "ビジネスの成功と失敗の裏には管理会計の優劣がある",
     "tags": [
-      "Management",
-      "Accounting",
-      "Finance"
+      "Management Accounting"
     ],
     "title": "ケースで学ぶ管理会計"
   },
@@ -1211,7 +1198,7 @@
     "language": "日本語",
     "started_at": "2025-01-23",
     "tags": [
-      "Management"
+      "People Management"
     ],
     "title": "アジャイルチームによる目標づくりガイドブック"
   },
@@ -1259,8 +1246,7 @@
     "started_at": "2025-02-14",
     "subtitle": "A Guide to Creating Organizations Inspired by the Next Stage in Human Consciousness",
     "tags": [
-      "Management",
-      "Sociology"
+      "People Management"
     ],
     "title": "Reinventing Organizations"
   },
@@ -1304,7 +1290,8 @@
     "started_at": "2025-04-19",
     "subtitle": "How the World's Best Companies Ship Software and Work Differently",
     "tags": [
-      "Management"
+      "People Management",
+      "Strategy"
     ],
     "title": "Competing with Unicorns"
   },
@@ -1334,8 +1321,7 @@
     "language": "English",
     "started_at": "2025-04-23",
     "tags": [
-      "Management",
-      "Finance"
+      "Management Accounting"
     ],
     "title": "Throughput Accounting"
   },
@@ -1426,8 +1412,7 @@
     "started_at": "2025-07-04",
     "subtitle": "And Its Implications for Management Accounting",
     "tags": [
-      "Accounting",
-      "Finance"
+      "Management Accounting"
     ],
     "title": "The Theory of Constraints"
   },
@@ -1459,8 +1444,8 @@
     "started_at": "2025-07-09",
     "subtitle": "Netflix and the Culture of Reinvention",
     "tags": [
-      "Management",
-      "Leadership"
+      "People Management",
+      "Strategy"
     ],
     "title": "No Rules Rules"
   },
@@ -1505,9 +1490,7 @@
     "finished_at": "2025-10-18",
     "language": "English",
     "started_at": "2025-08-18",
-    "tags": [
-      "Sociology"
-    ],
+    "tags": [],
     "title": "Governing the Commons"
   },
   {
@@ -1521,8 +1504,7 @@
     "language": "日本語",
     "started_at": "2025-10-19",
     "tags": [
-      "Accounting",
-      "Finance"
+      "Management Accounting"
     ],
     "title": "実践 日本版 FP&A"
   },
@@ -1570,9 +1552,7 @@
     "started_at": "2025-11-12",
     "subtitle": "日本軍の組織論的研究",
     "tags": [
-      "Sociology",
-      "History",
-      "Japanese History"
+      "History"
     ],
     "title": "失敗の本質"
   },
@@ -1587,9 +1567,7 @@
     "language": "English",
     "started_at": "2025-12-07",
     "subtitle": "Public Goods and the Theory of Groups",
-    "tags": [
-      "Sociology"
-    ],
+    "tags": [],
     "title": "The Logic of Collective Action"
   },
   {
@@ -1696,7 +1674,7 @@
     "started_at": "2026-01-16",
     "subtitle": "The Revolutionary Book That Will Change the Way You Do Business",
     "tags": [
-      "Management"
+      "Strategy"
     ],
     "title": "The Innovator's Dilemma"
   },
@@ -1760,8 +1738,7 @@
     "started_at": "2026-01-28",
     "tags": [
       "Leadership",
-      "History",
-      "Japanese History"
+      "History"
     ],
     "title": "日本型リーダーはなぜ失敗するのか"
   },
@@ -1913,10 +1890,7 @@
     "language": "English",
     "started_at": "2026-03-01",
     "subtitle": "Why Good People Are Divided by Politics and Religion",
-    "tags": [
-      "Sociology",
-      "Psychology"
-    ],
+    "tags": [],
     "title": "The Righteous Mind"
   },
   {
@@ -1977,5 +1951,32 @@
     "subtitle": "Why We Are the Way We Are",
     "tags": [],
     "title": "The Moral Animal"
+  },
+  {
+    "authors": [
+      "Malcolm Gladwell"
+    ],
+    "cat1": "Social Science",
+    "cat2": "Sociology",
+    "fiction": false,
+    "language": "English",
+    "started_at": "2026-06-02",
+    "finished_at": "2026-06-05",
+    "subtitle": "How Little Things Can Make a Big Difference",
+    "tags": [],
+    "title": "The Tipping Point"
+  },
+  {
+    "authors": [
+      "Karl Mannheim"
+    ],
+    "cat1": "Social Science",
+    "cat2": "Sociology",
+    "fiction": false,
+    "language": "English",
+    "started_at": "2026-06-05",
+    "finished_at": "2026-06-09",
+    "tags": [],
+    "title": "Ideology & Utopia"
   }
 ]
