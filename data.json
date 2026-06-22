@@ -508,7 +508,7 @@
     "authors": [
       "Philipp Dettmer"
     ],
-    "cat1": "Applied Science",
+    "cat1": "Natural Science",
     "cat2": "Other",
     "fiction": false,
     "finished_at": "2023-08-01",
@@ -1929,7 +1929,7 @@
       "Niall Ferguson"
     ],
     "cat1": "Social Science",
-    "cat2": "Other",
+    "cat2": "Economics",
     "fiction": false,
     "language": "English",
     "started_at": "2026-05-15",
@@ -1978,5 +1978,59 @@
     "finished_at": "2026-06-09",
     "tags": [],
     "title": "Ideology & Utopia"
+  },
+  {
+    "authors": [
+      "Thomas J. Biersteker",
+      "Cynthia Weber"
+    ],
+    "cat1": "Social Science",
+    "cat2": "Other",
+    "fiction": false,
+    "language": "English",
+    "started_at": "2026-06-05",
+    "finished_at": "2026-06-11",
+    "tags": [],
+    "title": "State sovereignty as social construct"
+  },
+  {
+    "authors": [
+      "Richard Dawkins"
+    ],
+    "cat1": "Natural Science",
+    "cat2": "Other",
+    "fiction": false,
+    "language": "English",
+    "started_at": "2026-06-09",
+    "finished_at": "2026-06-15",
+    "tags": [],
+    "title": "The Selfish Gene"
+  },
+  {
+    "authors": [
+      "山崎ナオコーラ"
+    ],
+    "cat1": "Other",
+    "cat2": "Other",
+    "fiction": false,
+    "language": "English",
+    "started_at": "2026-06-15",
+    "finished_at": "2026-06-21",
+    "tags": [],
+    "title": "ミライの源氏物語"
+  },
+  {
+    "authors": [
+      "Adam Smith",
+      "Kathryn Sutherland"
+    ],
+    "cat1": "Social Science",
+    "cat2": "Economics",
+    "fiction": false,
+    "language": "English",
+    "started_at": "2026-06-09",
+    "finished_at": "2026-06-23",
+    "tags": [],
+    "title": "An Inquiry into the Nature and Causes of the Wealth of Nations: A Selected Edition"
   }
 ]
