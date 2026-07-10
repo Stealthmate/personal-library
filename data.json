@@ -986,9 +986,7 @@
     "fiction": false,
     "finished_at": "2024-09-17",
     "language": "日本語",
-    "tags": [
-      "Psychology"
-    ],
+    "tags": [],
     "title": "自分の親に読んで欲しかった本"
   },
   {
@@ -996,7 +994,7 @@
       "David Graeber"
     ],
     "cat1": "Social Science",
-    "cat2": "Other",
+    "cat2": "Anthropology",
     "fiction": false,
     "finished_at": "2024-10-02",
     "language": "English",
@@ -1229,9 +1227,7 @@
     "language": "日本語",
     "started_at": "2025-02-05",
     "subtitle": "自己啓発の源流「アドラー」の教え",
-    "tags": [
-      "Psychology"
-    ],
+    "tags": [],
     "title": "嫌われる勇気"
   },
   {
@@ -1582,8 +1578,7 @@
     "started_at": "2025-12-13",
     "subtitle": "Reflections on the Origin and Spread of Nationalism",
     "tags": [
-      "History",
-      "Sociology"
+      "History"
     ],
     "title": "Imagined Communities"
   },
@@ -1612,9 +1607,7 @@
     "language": "English",
     "started_at": "2025-12-22",
     "subtitle": "The new science of adult attachment and how it can help you find – and keep – love",
-    "tags": [
-      "Psychology"
-    ],
+    "tags": [],
     "title": "Attached"
   },
   {
@@ -1642,9 +1635,7 @@
     "finished_at": "2026-01-09",
     "language": "日本語",
     "started_at": "2025-12-28",
-    "tags": [
-      "Psychology"
-    ],
+    "tags": [],
     "title": "芸術としてのカウンセリング入門"
   },
   {
@@ -1683,7 +1674,7 @@
       "Marcus Aurelius"
     ],
     "cat1": "Humanities",
-    "cat2": "Other",
+    "cat2": "Philosophy",
     "fiction": false,
     "finished_at": "2026-02-01",
     "language": "English",
@@ -1704,9 +1695,7 @@
     "language": "English",
     "started_at": "2026-02-01",
     "subtitle": "How to Heal from Distant, Rejecting, or Self-Involved Parents",
-    "tags": [
-      "Psychology"
-    ],
+    "tags": [],
     "title": "Adult Children of Emotionally Immature Parents"
   },
   {
@@ -1721,9 +1710,7 @@
     "language": "English",
     "started_at": "2026-02-06",
     "subtitle": "Overcome Your Childhood Emotional Neglect",
-    "tags": [
-      "Psychology"
-    ],
+    "tags": [],
     "title": "Running on Empty"
   },
   {
@@ -1754,7 +1741,6 @@
     "started_at": "2026-02-19",
     "subtitle": "The Surprising Truth About What Motivates Us",
     "tags": [
-      "Psychology",
       "Leadership"
     ],
     "title": "Drive"
@@ -1913,15 +1899,13 @@
       "David Piling"
     ],
     "cat1": "Social Science",
-    "cat2": "Sociology",
+    "cat2": "Economics",
     "fiction": false,
     "language": "English",
     "started_at": "2026-05-10",
     "finished_at": "2026-05-17",
     "subtitle": "Wealth, Poverty, and the Well-Being of Nations",
-    "tags": [
-      "Economics"
-    ],
+    "tags": [],
     "title": "The Growth Delusion"
   },
   {
@@ -2013,7 +1997,7 @@
     "cat1": "Other",
     "cat2": "Other",
     "fiction": false,
-    "language": "English",
+    "language": "日本語",
     "started_at": "2026-06-15",
     "finished_at": "2026-06-21",
     "tags": [],
@@ -2032,5 +2016,72 @@
     "finished_at": "2026-06-23",
     "tags": [],
     "title": "An Inquiry into the Nature and Causes of the Wealth of Nations: A Selected Edition"
+  },
+  {
+    "authors": [
+      "Erin Meyer"
+    ],
+    "cat1": "Social Science",
+    "cat2": "Other",
+    "fiction": false,
+    "language": "English",
+    "started_at": "2026-06-22",
+    "finished_at": "2026-06-28",
+    "tags": [],
+    "title": "The Culture Map",
+    "subtitle": "Decoding how people think, lead and get things done across cultures"
+  },
+  {
+    "authors": [
+      "Robert Michels"
+    ],
+    "cat1": "Social Science",
+    "cat2": "Sociology",
+    "fiction": false,
+    "language": "English",
+    "started_at": "2026-06-16",
+    "finished_at": "2026-06-29",
+    "tags": [],
+    "title": "Political Parties",
+    "subtitle": "A Sociological Study of the Oligarchial Tendencies of Modern Democracy"
+  },
+  {
+    "authors": [
+      "又吉直樹"
+    ],
+    "cat1": "Other",
+    "cat2": "Other",
+    "fiction": true,
+    "language": "日本語",
+    "started_at": "2026-06-23",
+    "finished_at": "2026-06-30",
+    "tags": [],
+    "title": "火花"
+  },
+  {
+    "authors": [
+      "Max Weber"
+    ],
+    "cat1": "Social Science",
+    "cat2": "Sociology",
+    "fiction": false,
+    "language": "English",
+    "started_at": "2026-06-29",
+    "finished_at": "2026-07-01",
+    "tags": [],
+    "title": "Politics as a Vocation"
+  },
+  {
+    "authors": [
+      "Jean-Jacques Rousseau"
+    ],
+    "cat1": "Humanities",
+    "cat2": "Philosophy",
+    "fiction": false,
+    "language": "English",
+    "started_at": "2026-06-29",
+    "finished_at": "2026-07-10",
+    "tags": [],
+    "title": "Discourse on the Origin and Basis of Inequality Among Men"
   }
 ]
