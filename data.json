@@ -2111,5 +2111,20 @@
       "Japanese Literature"
     ],
     "title": "剣客商売 2"
+  },
+  {
+    "authors": [
+      "池波正太郎"
+    ],
+    "cat1": "剣客商売",
+    "cat2": "Other",
+    "fiction": true,
+    "finished_at": "2026-08-27",
+    "language": "日本語",
+    "started_at": "2026-07-25",
+    "tags": [
+      "Japanese Literature"
+    ],
+    "title": "剣客商売 3"
   }
 ]
